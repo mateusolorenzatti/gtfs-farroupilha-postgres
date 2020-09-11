@@ -1,0 +1,7 @@
+service_id,service_description
+c_5988_b_6309_d_79,Calendario todo o ano
+c_5988_b_6309_d_64,Calendario todo o ano (Sunday only)
+c_5988_b_6309_d_63,Calendario todo o ano (Monday-Saturday)
+c_5988_b_6309_d_32,Calendario todo o ano (Saturday only)
+c_5988_b_6309_d_31,Calendario todo o ano (Monday-Friday)
+c_5988_b_6309_d_127,Calendario todo o ano (All days of week)

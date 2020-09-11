@@ -1,0 +1,718 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2429586,,,Rua Sao Leopoldo com Rua Montenegro,,-29.22596411,-51.32204711,,,0,,America/Sao_Paulo,,,0
+2429587,,,Rua Veranopolis com Rua Montenegro,,-29.22594539,-51.32117808,,,0,,America/Sao_Paulo,,,0
+2429588,,,Rua Manoel Pasqual com Rua Bom Jesus,,-29.22405637,-51.32067651,,,0,,America/Sao_Paulo,,,0
+2429593,,,Rua  Arthur Pedrotini com Rua Fioravante,,-29.22903749,-51.32036805,,,0,,America/Sao_Paulo,,,0
+2429594,,,Rua Porto Alegre com Rua Arthur Pedrotini,,-29.22749965,-51.32046193,,,0,,America/Sao_Paulo,,,0
+2429596,,,Rua Veranopolis com Rua Joao Fabro Filho,,-29.22676465,-51.32054508,,,0,,America/Sao_Paulo,,,0
+2429597,,,Rua Joao Fabro Filho com Rua Veranopolis,,-29.22675997,-51.32020175,,,0,,America/Sao_Paulo,,,0
+2429605,,,Rua Joao Fabro Filho com Rua Manoel Pasqual,,-29.22376377,-51.31413996,,,0,,America/Sao_Paulo,,,0
+2429606,,,Rua Manoel Pasqual com Rua Prefeito Joao Grande,,-29.223951178498,-51.313011317473,,,0,,America/Sao_Paulo,,,0
+2429607,,,Rua Prefeito Joao Grande com Rua Sergio Luiz Cignachi,,-29.22653292,-51.31287664,,,0,,America/Sao_Paulo,,,0
+2429608,,,Rua Prefeito Giacomo Velentin Luchese com Rua Sergio Luiz Cignachi,,-29.22658324,-51.31188154,,,0,,America/Sao_Paulo,,,0
+2429610,,,Rua Prefeito Giacomo Valentin Luchese com Rua Millo Ornaghi,,-29.22507696,-51.3118735,,,0,,America/Sao_Paulo,,,0
+2429613,,,Rua Manoel Pasqual com Rua Sao Gabriel,,-29.2240989580819,-51.3154764552156,,,0,,America/Sao_Paulo,,,0
+2429614,,,Rua Joao Fabrio Filho com Rua Santa Maria,,-29.22275019,-51.31336212,,,0,,America/Sao_Paulo,,,0
+2429615,,,Rua Santa Maria com Rua Sao Gabriel,,-29.222479951559,-51.315241055651,,,0,,America/Sao_Paulo,,,0
+2429616,,,Rua Santa Maria com Rua Sao Gabriel,,-29.22257463,-51.31554276,,,0,,America/Sao_Paulo,,,0
+2429617,,,Rua Santa Maria com Rua Santo Angelo,,-29.22248334,-51.31747931,,,0,,America/Sao_Paulo,,,0
+2429619,,,Rua Santo Angelo com Rua Santa Maria,,-29.22263549,-51.31771803,,,0,,America/Sao_Paulo,,,0
+2429620,,,Rua Santo Angelo com Rua Sananduva,,-29.22118182,-51.31759733,,,0,,America/Sao_Paulo,,,0
+2429621,,,Rua Santo Angelo com Rua Sananduva,,-29.22088687,-51.31775022,,,0,,America/Sao_Paulo,,,0
+2429622,,,Rua Rondinha com Rua Jose Maioli,,-29.21956894,-51.31504387,,,0,,America/Sao_Paulo,,,0
+2429623,,,Rua Rondinha com Rua Jose Maioli,,-29.21943785,-51.31506801,,,0,,America/Sao_Paulo,,,0
+2429624,,,Parada Rodovia dos Romeiros,,-29.188538720176,-51.340173247587,,,0,,America/Sao_Paulo,,,0
+2429625,,,Parada rua Bem-Te-Vi,,-29.17376695,-51.34330362,,,0,,America/Sao_Paulo,,,0
+2429626,,,parada rua Bem-Te-Vi com a Rodovia dos Romeiros,,-29.17375875,-51.33994684,,,0,,America/Sao_Paulo,,,0
+2429627,,,Parada Rua Veneto,,-29.19940234,-51.3344872,,,0,,America/Sao_Paulo,,,0
+2429628,,,Parada Rua Veneto,,-29.2033090377906,-51.3364616241267,,,0,,America/Sao_Paulo,,,0
+2429629,,,Parada Rua Veneto com a Arthur Weirich Sobrinho,,-29.208101,-51.34169,,,0,,America/Sao_Paulo,,,0
+2429630,,,Parada rua Bem-Te-Vi,,-29.17365571,-51.34331837,,,0,,America/Sao_Paulo,,,0
+2429631,,,parada rua Bem-Te-Vi com a Rodovia dos Romeiros,,-29.17362643,-51.33987173,,,0,,America/Sao_Paulo,,,0
+2429632,,,Estrada Luiz Victório Galafassi,,-29.175905478082,-51.323909031576,,,0,,America/Sao_Paulo,,,0
+2429633,,,Rua Veneto,,-29.179185042121,-51.322724462807,,,0,,America/Sao_Paulo,,,0
+2429634,,,Rua Veneto,,-29.18912788,-51.32137656,,,0,,America/Sao_Paulo,,,0
+2429635,,,Rua Luciano Cortuis com Rua Abramo Feltrin,,-29.20642387,-51.36282742,,,0,,America/Sao_Paulo,,,0
+2429636,,,Rua Luciano Cortuis com Rua Abramo Feltrin,,-29.208955538532,-51.362841050556,,,0,,America/Sao_Paulo,,,0
+2429637,,,Rua Luciano Cortuis com Rua Abramo Feltrin,,-29.20637237,-51.36290655,,,0,,America/Sao_Paulo,,,0
+2429638,,,Rodovia dos Romeiros com Rua Abramo Cláudio Hans+,,-29.20260529,-51.35188401,,,0,,America/Sao_Paulo,,,0
+2429639,,,Rodovia dos Romeiros com Rua Alício Octavio Maioli,,-29.20210542,-51.35036319,,,0,,America/Sao_Paulo,,,0
+2429640,,,Rodovia dos Romeiros com Rua São João Calábria,,-29.20311101,-51.35338068,,,0,,America/Sao_Paulo,,,0
+2429641,,,Rodovia dos Romeiros com Rua São João Calábria,,-29.203281292895,-51.35338430741,,,0,,America/Sao_Paulo,,,0
+2429642,,,Rodovia dos Romeiros com São Vicente (IFRS- Campus Farroupilha),,-29.20198952,-51.3483274,,,0,,America/Sao_Paulo,,,0
+2429643,,,Rodovia dos Romeiros com São Vicente (IFRS- Campus Farroupilha),,-29.20206913,-51.3480565,,,0,,America/Sao_Paulo,,,0
+2429644,,,Rodovia dos Romeiros com Stefano Crippa (Residencial Farroupilha),,-29.20813,-51.354157,,,0,,America/Sao_Paulo,,,0
+2429645,,,Rodovia dos Romeiros com Stefano Crippa (SENAI),,-29.20879081,-51.35331362,,,0,,America/Sao_Paulo,,,0
+2429646,,,Rodovia dos Romeiros entre Rua João Calábria e Rua Stefano Crippa (Seminário Apostólico Nossa Senhora de Caravaggio),,-29.20570278,-51.35514289,,,0,,America/Sao_Paulo,,,0
+2429647,,,Rodovia dos Romeiros entre Rua João Calábria e Rua Stefano Crippa (Seminário Apostólico Nossa Senhora de Caravaggio),,-29.20614527,-51.35494977,,,0,,America/Sao_Paulo,,,0
+2429648,,,Rodovia dos Romeiros entre Rua São Vicente e Rua Alício Octavio Maioli,,-29.20186,-51.349102,,,0,,America/Sao_Paulo,,,0
+2429649,,,Rodovia dos Romeiros entre Rua Stefano Crippa e Rua São João Calábria,,-29.208107,-51.354482,,,0,,America/Sao_Paulo,,,0
+2429650,,,Rua Abramo Feltrin entre Rua Pedro Marcheto e Rua Cristiano Antônio Frederico Fetter,,-29.20624711,-51.36103034,,,0,,America/Sao_Paulo,,,0
+2429651,,,Rua Abramo Feltrin entre Rua Pedro Marcheto e Rua Cristiano Antônio Frederico Fetter,,-29.206342,-51.361035,,,0,,America/Sao_Paulo,,,0
+2429652,,,Rua Anselmo Schet com Rua Vitório Fagherazzi,,-29.20612,-51.344206,,,0,,America/Sao_Paulo,,,0
+2429653,,,Rua Anselmo Schet com Rua Vitório Fagherazzi,,-29.206065,-51.344289,,,0,,America/Sao_Paulo,,,0
+2429654,,,Rua Colorado com Rua Josué A. Minella,,-29.204689,-51.359895,,,0,,America/Sao_Paulo,,,0
+2429655,,,Rua Colorado com Rua São João Calábria,,-29.202228,-51.359922,,,0,,America/Sao_Paulo,,,0
+2429656,,,Rua Cristiano Antônio Frederico Fetter entre Rua Amadeu Cotta e Rua Amália Bampi,,-29.20826171,-51.36085868,,,0,,America/Sao_Paulo,,,0
+2429657,,,Rua Eugênio Valentini com Rua Henrique Venzon,,-29.207081613111,-51.345388731408,,,0,,America/Sao_Paulo,,,0
+2429658,,,Rua Eugênio Valentini com Rua Henrique Venzon,,-29.207147396546,-51.34540471923,,,0,,America/Sao_Paulo,,,0
+2429659,,,Rua Eugênio Valentini entre Rua Brietembach e Rua Alecrim,,-29.20711921,-51.34684682,,,0,,America/Sao_Paulo,,,0
+2429660,,,Rua Eugênio Valentini entre Rua Brietembach e Rua Alecrim,,-29.207154,-51.346979,,,0,,America/Sao_Paulo,,,0
+2429661,,,Rua Firmino Dalzochio com Rua Pedro Roberto Perger,,-29.20151423,-51.35451257,,,0,,America/Sao_Paulo,,,0
+2429662,,,Rua São Vicente entre Avenida Prefeito Arno Domingos Busetti e Rua Giácomo Mandelli (Padaria Panini D Itália,,-29.208613,-51.348012,,,0,,America/Sao_Paulo,,,0
+2429663,,,Rua São Vicente entre Avenida Prefeito Arno Domingos Busetti e Rua Giácomo Mandelli (Unidade Básica de Saúde Cinquentenário),,-29.20855436,-51.34820133,,,0,,America/Sao_Paulo,,,0
+2429664,,,Rua Stefano Crippa com Rodovia dos Romeiros,,-29.20914969964,-51.353242337721,,,0,,America/Sao_Paulo,,,0
+2429665,,,Rua Ubaldo Zanelatto com Rua Brietembach,,-29.205993548018,-51.3474796601,,,0,,America/Sao_Paulo,,,0
+2429666,,,Rua Ubaldo Zanelatto com Rua Brietembach,,-29.206056082187,-51.34748042755,,,0,,America/Sao_Paulo,,,0
+2429667,,,Rua Ubaldo Zanelatto entre Rua Henrique Venzon e Rua Alecrim,,-29.205876,-51.345822,,,0,,America/Sao_Paulo,,,0
+2429668,,,Rua Ubaldo Zanelatto entre Rua Henrique Venzon e Rua Alecrim,,-29.205815,-51.345851,,,0,,America/Sao_Paulo,,,0
+2429669,,,Rua Ábramo Dalmolin com Rota do sul,,-29.21513048,-51.31326824,,,0,,America/Sao_Paulo,,,0
+2429670,,,Acesso ao Monte Pasqual,,-29.21738251,-51.32190093,,,0,,America/Sao_Paulo,,,0
+2429671,,,Acesso ao Monte Pasqual - Rota do sol,,-29.21594866,-51.31961569,,,0,,America/Sao_Paulo,,,0
+2429672,,,Carlos Buscaino,,-29.214723,-51.323589,,,0,,America/Sao_Paulo,,,0
+2429673,,,CEEE Subestação,,-29.21846051,-51.32423043,,,0,,America/Sao_Paulo,,,0
+2429674,,,CEEE Subestação,,-29.21833761,-51.32430688,,,0,,America/Sao_Paulo,,,0
+2429675,,,Escola Zelinda Rodolfo Pessin,,-29.21591588,-51.32357866,,,0,,America/Sao_Paulo,,,0
+2429676,,,Guerino Tartarotti - Rota do sol,,-29.21727365,-51.32199615,,,0,,America/Sao_Paulo,,,0
+2429677,,,Igreja e Salão Comunitário,,-29.21844998,-51.315988,,,0,,America/Sao_Paulo,,,0
+2429678,,,Parada do Residencial Dona Otília,,-29.21538,-51.319071,,,0,,America/Sao_Paulo,,,0
+2429679,,,Rua Caetano Grendene,,-29.217759,-51.324764,,,0,,America/Sao_Paulo,,,0
+2429680,,,Rua Guerino Tartarotti,,-29.21316752,-51.32289872,,,0,,America/Sao_Paulo,,,0
+2429681,,,Rua Guerino Tartarotti,,-29.21316635,-51.32298052,,,0,,America/Sao_Paulo,,,0
+2429682,,,Rua Guerino Tartarotti,,-29.21595451,-51.32285714,,,0,,America/Sao_Paulo,,,0
+2429683,,,Rua Guerino Tartarotti com Caetano Grendene,,-29.21696932,-51.32246688,,,0,,America/Sao_Paulo,,,0
+2429684,,,Rua Guerino Tartarotti com Serapião Prado,,-29.216319932224,-51.322652985532,,,0,,America/Sao_Paulo,,,0
+2429685,,,Rua Itália com Rota do sol,,-29.21483551,-51.31198347,,,0,,America/Sao_Paulo,,,0
+2429686,,,Rua Itália com Rua Alfredo Raimundo Horn,,-29.20945219,-51.3124904,,,0,,America/Sao_Paulo,,,0
+2429687,,,Rua Itália com Rua João Batista Minela,,-29.211478759725,-51.312338300623,,,0,,America/Sao_Paulo,,,0
+2429688,,,Rua Itália com Rua João Batista Minela,,-29.21147375,-51.31250381,,,0,,America/Sao_Paulo,,,0
+2429689,,,Rua José Maioli com Rua Rolante,,-29.218335506469,-51.314599292284,,,0,,America/Sao_Paulo,,,0
+2429690,,,Rua José Maioli,,-29.21698433123,-51.314662365218,,,0,,America/Sao_Paulo,,,0
+2429691,,,Rua Pedro Pasqual FIlho,,-29.21612774,-51.3136223,,,0,,America/Sao_Paulo,,,0
+2429692,,,Rua Pedro Pasqual FIlho,,-29.216133106243,-51.31836026747,,,0,,America/Sao_Paulo,,,0
+2429693,,,Rua Pedro Pasqual FIlho,,-29.216217566788,-51.318356998368,,,0,,America/Sao_Paulo,,,0
+2429694,,,Rua Renato Luiz Chiele,,-29.20885754,-51.32246688,,,0,,America/Sao_Paulo,,,0
+2429695,,,Rua Santo Ãngelo,,-29.21712032,-51.31772205,,,0,,America/Sao_Paulo,,,0
+2429696,,,Rua Santo Ãngelo,,-29.2184124511,-51.317833368012,,,0,,America/Sao_Paulo,,,0
+2429697,,,Salão comunitário,,-29.210170770765,-51.323053824846,,,0,,America/Sao_Paulo,,,0
+2429698,,,Rota do Sol Euclides Triches a Bigfer,,-29.210753,-51.388346,,,0,,America/Sao_Paulo,,,0
+2429699,,,Rota do Sol Euclides Triches lest de Posto Sander,,-29.214739,-51.377012,,,0,,America/Sao_Paulo,,,0
+2429700,,,Esquina  da Rua Odila Luiz Maliverno Tartarotti com Rua Francisco Frozi,,-29.21220885,-51.36564106,,,0,,America/Sao_Paulo,,,0
+2429701,,,Para na Rotatória,,-29.21506727,-51.37304127,,,0,,America/Sao_Paulo,,,0
+2429702,,,Parada em frente á Máquinas Sazi,,-29.215003,-51.368602,,,0,,America/Sao_Paulo,,,0
+2429703,,,RSC- 453 (Em frente á ITM),,-29.2149215729201,-51.3734041873134,,,0,,America/Sao_Paulo,,,0
+2429704,,,Rua Luciano Cortuis esquina com Rua Garibaldi,,-29.210236,-51.362626,,,0,,America/Sao_Paulo,,,0
+2429705,,,Rua Luciano Cortuis esquina com Rua Paulo Tartarotti,,-29.209894063471,-51.362476565633,,,0,,America/Sao_Paulo,,,0
+2429706,,,Rua Luciano Cortuis próximo Rua Vitório Tartaroti,,-29.208946511058,-51.362699460401,,,0,,America/Sao_Paulo,,,0
+2429707,,,Rua Minas Gerais (metade da quadra),,-29.211557,-51.364496,,,0,,America/Sao_Paulo,,,0
+2429708,,,Rua Odila Luiz Maliverno Tartarotti esquina com Rua Vitório Tartarotti,,-29.212203,-51.36330351,,,0,,America/Sao_Paulo,,,0
+2429709,,,Rota do Sol Euclides Triches depois de Rua Vicentina,,-29.21487999,-51.36516899,,,0,,America/Sao_Paulo,,,0
+2429710,,,Rua Garibaldi com Rua Cristiano Antonio Frederico Fetter,,-29.21035938,-51.36042684,,,0,,America/Sao_Paulo,,,0
+2429711,,,Rua Garibaldi co Rua Condor,,-29.21032192,-51.35855466,,,0,,America/Sao_Paulo,,,0
+2429712,,,Rua Garibaldi co Rua Condor,,-29.21022359,-51.35840714,,,0,,America/Sao_Paulo,,,0
+2429713,,,Rua Garibaldi com Rua Brasilia,,-29.21030085,-51.35647863,,,0,,America/Sao_Paulo,,,0
+2429714,,,Rua Garibaldi com Rua Brasilia,,-29.2101955,-51.35627747,,,0,,America/Sao_Paulo,,,0
+2429715,,,Rua Garibaldi com Rua Luigi Sperafico,,-29.210230792001,-51.354487968722,,,0,,America/Sao_Paulo,,,0
+2429717,,,Rodia dos Romeiros antes Avenida Prefeito Arno Domingos Busetti,,-29.20956808,-51.35232925,,,0,,America/Sao_Paulo,,,0
+2429718,,,Rodia dos Romeiros Rodia dos Romeiros depois de Avenida Prefeito Arno Domingos Busetti Avenida Prefeito Arno Domingos Busetti,,-29.20971323,-51.35207176,,,0,,America/Sao_Paulo,,,0
+2429719,,,Rodoviaria dos Romeiros depois de Avenida Prefeito Arno Domingos Busetti,,-29.21065904,-51.35181427,,,0,,America/Sao_Paulo,,,0
+2429720,,,Rodoviaria dos Romeiros com Avenida Prefeito Arno Domingos Busetti,,-29.21005269,-51.35110348,,,0,,America/Sao_Paulo,,,0
+2429721,,,Rodoviaria dos Romeiros com Avenida Prefeito Arno Domingos Busetti,,-29.2101159,-51.35040343,,,0,,America/Sao_Paulo,,,0
+2429722,,,Rua São Vicente com Avenida Prefeito Arno Domingos Busetti,,-29.20944165,-51.3482067,,,0,,America/Sao_Paulo,,,0
+2429723,,,Rua São Vicente com Avenida Prefeito Arno Domingos Busetti,,-29.20946506,-51.34798139,,,0,,America/Sao_Paulo,,,0
+2429724,,,Rua Veneto com TV Barra de Santa Rita,,-29.21068713,-51.34423435,,,0,,America/Sao_Paulo,,,0
+2429725,,,Rua Veneto depois de Rua Humberto Jaconi,,-29.21219012,-51.34559155,,,0,,America/Sao_Paulo,,,0
+2429726,,,Rua Veneto com Rua Luiz Fagherazzi,,-29.21443753,-51.34542525,,,0,,America/Sao_Paulo,,,0
+2429727,,,Rua Domenico Fin com Rua Marcos Benvenutti,,-29.21569466,-51.34334922,,,0,,America/Sao_Paulo,,,0
+2429728,,,Rua Odilon Pratti com Rua Domenico Fin,,-29.21603878,-51.34408146,,,0,,America/Sao_Paulo,,,0
+2429729,,,Rua Domenico  Fin com Rua Humberto Jaconi,,-29.21609263,-51.34480029,,,0,,America/Sao_Paulo,,,0
+2429730,,,Rua Humberto Jaconi com Rua Domenico,,-29.21627991,-51.34487271,,,0,,America/Sao_Paulo,,,0
+2429731,,,Rua Toscana com Rua Humberto Jaconi,,-29.21768449,-51.34475201,,,0,,America/Sao_Paulo,,,0
+2429732,,,Rua Lateral com Rua Humberto Jaconi,,-29.21870748,-51.34500682,,,0,,America/Sao_Paulo,,,0
+2429733,,,Rua Domenico Fin con Rua Vêneto,,-29.21635716,-51.34662285,,,0,,America/Sao_Paulo,,,0
+2429734,,,Museo Municipal,,-29.216572509907,-51.346573087411,,,0,,America/Sao_Paulo,,,0
+2429735,,,Rua São Vicente com Rua Domenico Fin,,-29.21621319,-51.34795189,,,0,,America/Sao_Paulo,,,0
+2429736,,,Rua Monsenhor Thiago Bombardelli depois de Rua Prefeito Schneider,,-29.21820886,-51.34945393,,,0,,America/Sao_Paulo,,,0
+2429737,,,Rua Júlio de Castilhos antes de Avenida Paulo Broilo,,-29.21783782,-51.34911597,,,0,,America/Sao_Paulo,,,0
+2429738,,,Rota do Sol Euclides Triches depois de Rua Domenico Fin,,-29.21694709,-51.34910792,,,0,,America/Sao_Paulo,,,0
+2429739,,,Rua Domenico Fin com Rota do Sol Euclides Triches,,-29.21650698,-51.34939224,,,0,,America/Sao_Paulo,,,0
+2429740,,,Rua Domenico Fin com Rota do Sol Euclides Triches,,-29.21641568,-51.34927958,,,0,,America/Sao_Paulo,,,0
+2429741,,,Rua Monsenhor Thiago Bombardelli com Rua Angelo Mario Schenato,,-29.21722098,-51.35331362,,,0,,America/Sao_Paulo,,,0
+2429742,,,Rua Monsenhor Thiago Bombardelli com Rua Angelo Mario Schenato,,-29.21709925,-51.35346383,,,0,,America/Sao_Paulo,,,0
+2429743,,,Rodovia dos Romeiros com Rotado Sol Euclides Triches,,-29.21466929,-51.35122955,,,0,,America/Sao_Paulo,,,0
+2429744,,,Rua Sao Vicente com Rua Luiz Fagherazzi,,-29.2145101,-51.34800687,,,0,,America/Sao_Paulo,,,0
+2429745,,,Rua Sao Vicente com Rua Luiz Fagherazzi,,-29.21458034,-51.34792641,,,0,,America/Sao_Paulo,,,0
+2429746,,,Rua São Vicente com Rua Aratiba,,-29.21143746,-51.34807929,,,0,,America/Sao_Paulo,,,0
+2429747,,,Rua São Vicente com Rua Aratiba,,-29.21148662,-51.34800151,,,0,,America/Sao_Paulo,,,0
+2429748,,,Rua Vicentina com Rua Amando Antonello,,-29.21617924,-51.35192692,,,0,,America/Sao_Paulo,,,0
+2429749,,,Rua Angelo Mario Schenato com Rua Vicentina,,-29.21617924,-51.35324389,,,0,,America/Sao_Paulo,,,0
+2429750,,,Rua Angelo Mario Schenato com Rua Vicentina,,-29.21627639,-51.35333642,,,0,,America/Sao_Paulo,,,0
+2429751,,,Rua Luiz Sperafico com Rua Vicentina,,-29.2159709,-51.35463595,,,0,,America/Sao_Paulo,,,0
+2429752,,,Rua Luiz Sperafico depois de Rua Vicentina,,-29.21605985,-51.3559556,,,0,,America/Sao_Paulo,,,0
+2429753,,,Rua São Paulo com Rota do Sol Euclides Triches,,-29.21484955,-51.35317683,,,0,,America/Sao_Paulo,,,0
+2429754,,,Rua São Paulo com Rota do Sol Euclides Triches,,-29.21475123,-51.35332435,,,0,,America/Sao_Paulo,,,0
+2429755,,,Rota do Sol Euclides Triches com Rua Luigi Sperafico,,-29.21402785,-51.35486126,,,0,,America/Sao_Paulo,,,0
+2429756,,,Rua Luigi Sperafico com Rua Santa Catarina,,-29.21197942,-51.35460913,,,0,,America/Sao_Paulo,,,0
+2429757,,,Rua Luigi Sperafico com Rua Albino Joao Fetter,,-29.21279412,-51.3545984,,,0,,America/Sao_Paulo,,,0
+2429758,,,Rua Vicentina com Rua Vitorio Dal Monte,,-29.21651869,-51.35823548,,,0,,America/Sao_Paulo,,,0
+2429759,,,Rua Vitorio Dal Monte com Rua Joao Farinon,,-29.21796072,-51.35944515,,,0,,America/Sao_Paulo,,,0
+2429760,,,Rota do Sol Euclides Triches próximo ao Parque,,-29.21482614,-51.36093378,,,0,,America/Sao_Paulo,,,0
+2429761,,,Rua Luciano Cortuis depois de Rua Brasilia,,-29.21331383,-51.35905087,,,0,,America/Sao_Paulo,,,0
+2429762,,,Rua Luciano Cortuis antes Rua Brasilia,,-29.21330447,-51.35998964,,,0,,America/Sao_Paulo,,,0
+2429763,,,Rua  Espumoso com Rua Esteio,,-29.21516559,-51.3332212,,,0,,America/Sao_Paulo,,,0
+2429764,,,Rua Adelina Ângela Fae Guerra com Rua Alexandre Sachet,,-29.213610139415,-51.338504613544,,,0,,America/Sao_Paulo,,,0
+2429765,,,Rua Adelina Ângela Fae Guerra com Rua Cachoeirinha,,-29.211560928977,-51.338584623384,,,0,,America/Sao_Paulo,,,0
+2429766,,,Rua Antão de Jesus Batista com Rua Marechal Deodoro da Fonseca,,-29.218407866167,-51.340210928642,,,0,,America/Sao_Paulo,,,0
+2429767,,,Rua Armindo Antônio Palavro com Rua Giovani Zanonatto,,-29.214398,-51.340057,,,0,,America/Sao_Paulo,,,0
+2429768,,,Rua Armiro Antônio Palavro com Rua Alexandre Sachet,,-29.213912596248,-51.34006147778,,,0,,America/Sao_Paulo,,,0
+2429769,,,Rua Armiro Antônio Palavro com Rua Domenico fin,,-29.215849,-51.34008,,,0,,America/Sao_Paulo,,,0
+2429770,,,Rua Assis Brasil com Rua Pedro Padovan,,-29.218747,-51.341688,,,0,,America/Sao_Paulo,,,0
+2429771,,,Rua Cachoeirinha com Rua José Leo Travi,,-29.211384,-51.335179,,,0,,America/Sao_Paulo,,,0
+2429772,,,Rua Cachoeirinha com Rua José Leo Travi,,-29.211438,-51.335326,,,0,,America/Sao_Paulo,,,0
+2429773,,,Rua Cachoeirinha com Rua Orlando Pedro Faé,,-29.21139415,-51.33662492,,,0,,America/Sao_Paulo,,,0
+2429774,,,Rua Cachoeirinha com Rua Orlando Pedro Faé,,-29.21144565,-51.3367644,,,0,,America/Sao_Paulo,,,0
+2429775,,,Rua Dante Sérgio Maccari com Rua Domenico Fin,,-29.215848355421,-51.340598463606,,,0,,America/Sao_Paulo,,,0
+2429776,,,Rua Dante Sérgio Maccari com Rua Giovani Zanonatto,,-29.2147478076737,-51.3407863872186,,,0,,America/Sao_Paulo,,,0
+2429777,,,Rua Domenico Fin com Rua Agostinho Rossi,,-29.216104,-51.341627,,,0,,America/Sao_Paulo,,,0
+2429778,,,Rua Domenico Fin com Rua Ernesto Fetter,,-29.216476,-51.332697,,,0,,America/Sao_Paulo,,,0
+2429780,,,Rua Domenico Fin com Rua Vacily Brambilla,,-29.2157938248068,-51.3429395549097,,,0,,America/Sao_Paulo,,,0
+2429781,,,Rua Domenico fin entre Rua Adelina Ângela Fae Guerra e Rua Ernesto Fetter,,-29.21637,-51.337976,,,0,,America/Sao_Paulo,,,0
+2429782,,,Rua Erechim com Rua Cachoeirinha,,-29.2115393,-51.33491099,,,0,,America/Sao_Paulo,,,0
+2429783,,,Rua Ernesto Fetter com Rua Espumoso,,-29.21507897,-51.33264452,,,0,,America/Sao_Paulo,,,0
+2429784,,,Rua Ernesto Fetter com Rua Treviso,,-29.21675981,-51.3325882,,,0,,America/Sao_Paulo,,,0
+2429785,,,Rua Esmeralda com Rua Ernesto Fetter,,-29.214000662851,-51.332525682113,,,0,,America/Sao_Paulo,,,0
+2429786,,,Rua Giovani Zanonatto com Rua Ãngelo Fae,,-29.214556163004,-51.339618832631,,,0,,America/Sao_Paulo,,,0
+2429787,,,Rua Giovani Zanonatto com Rua Dantre Sérgio Maccari,,-29.2149650353578,-51.340702505504,,,0,,America/Sao_Paulo,,,0
+2429788,,,Rua Herval com  Rua Luiz Rufatto,,-29.212930631095,-51.333657123398,,,0,,America/Sao_Paulo,,,0
+2429789,,,Rua Herval com Rua Erechim,,-29.212939128643,-51.334455466275,,,0,,America/Sao_Paulo,,,0
+2429790,,,Rua Padova com Rua Rovigo,,-29.21754871,-51.32755101,,,0,,America/Sao_Paulo,,,0
+2429791,,,Rua Padre Oscar Bertholdo com Ãngelo Fae,,-29.210354418061,-51.338157395518,,,0,,America/Sao_Paulo,,,0
+2429792,,,Rua Rovigo com Rua Beluno,,-29.21851084,-51.32754564,,,0,,America/Sao_Paulo,,,0
+2429793,,,Rua Toscana com Rua Pedro Padovan,,-29.217638602167,-51.341961268356,,,0,,America/Sao_Paulo,,,0
+2429794,,,Rua Treviso com Rua Horizontina,,-29.216979,-51.330871,,,0,,America/Sao_Paulo,,,0
+2429795,,,Rua Treviso com Rua Horizontina,,-29.216934,-51.330762,,,0,,America/Sao_Paulo,,,0
+2429796,,,Rua Treviso com Rua Trento,,-29.21688739,-51.32834226,,,0,,America/Sao_Paulo,,,0
+2429797,,,Rua Domenico Fin com Rua Agostinho Rossi,,-29.21602357,-51.34161115,,,0,,America/Sao_Paulo,,,0
+2429798,,,Rua Coronel Pena de Moraes com Rua Cerro Largo,,-29.226089,-51.363939,,,0,,America/Sao_Paulo,,,0
+2429799,,,Rua Coronel Pena de Moraes com Rua Cerro Largo,,-29.22601678,-51.36379838,,,0,,America/Sao_Paulo,,,0
+2429800,,,Rua Hilário Hilgert com Adolfo Bartelle,,-29.226962,-51.364786,,,0,,America/Sao_Paulo,,,0
+2429801,,,Rua Independência com Rua Ludovico Merlin,,-29.223149603956,-51.362238652932,,,0,,America/Sao_Paulo,,,0
+2429802,,,Rua Pedro Troes entre Rua Hilário Hilgert e Rua Catuípe,,-29.228132,-51.365136,,,0,,America/Sao_Paulo,,,0
+2429803,,,Rua Hilário Hilgert com Adolfo Bartelle,,-29.22694021,-51.36487529,,,0,,America/Sao_Paulo,,,0
+2429804,,,Rua Vitorio Dal Monte com rua Carlos Beltrami,,-29.21943785,-51.36004329,,,0,,America/Sao_Paulo,,,0
+2429805,,,Rua Vittorio Dal Monte com Rua Jose Hilgert,,-29.22073003,-51.3604188,,,0,,America/Sao_Paulo,,,0
+2429806,,,Rua 13 de Maio com Rua Joao Farinon,,-29.22278296,-51.3600862,,,0,,America/Sao_Paulo,,,0
+2429807,,,Rua 13 de Maio com Rua Joao Farinon,,-29.22269401,-51.36006206,,,0,,America/Sao_Paulo,,,0
+2429808,,,Rua 13 de Maio depois de Rua Emilio Theodomiro Denicol,,-29.22294916,-51.35900259,,,0,,America/Sao_Paulo,,,0
+2429809,,,Rua 13 de Maio com Rua Afonso Menegotto,,-29.22362566,-51.35680318,,,0,,America/Sao_Paulo,,,0
+2429810,,,Rua 13 de Maio com Rua Afonso Menegotto,,-29.22351096,-51.35674417,,,0,,America/Sao_Paulo,,,0
+2429811,,,Rua 13 de Maio com Rua Carlos Maggioni,,-29.22398147,-51.35493368,,,0,,America/Sao_Paulo,,,0
+2429812,,,Rua Luiz Busetti com Rua Independencia,,-29.22547489,-51.35328144,,,0,,America/Sao_Paulo,,,0
+2429813,,,Rua Luiz Busetti com Rua Independencia,,-29.225351588297,-51.353456701733,,,0,,America/Sao_Paulo,,,0
+2429814,,,Rua Independencia com Avenida Paulo Brolio,,-29.22579792,-51.35166407,,,0,,America/Sao_Paulo,,,0
+2429815,,,Rua Independencia com Avenida Paulo Brolio,,-29.2258026,-51.35126442,,,0,,America/Sao_Paulo,,,0
+2429816,,,Avenida Paulo Brolio com Rua 13 de Maio,,-29.22510739,-51.35129124,,,0,,America/Sao_Paulo,,,0
+2429817,,,Rua 13 de Maio com Avenida Paulo Brolio,,-29.2248114916007,-51.3514820813729,,,0,,America/Sao_Paulo,,,0
+2429818,,,Rua 13 de Maio com Avenida Paulo Brolio,,-29.22499269,-51.35091037,,,0,,America/Sao_Paulo,,,0
+2429819,,,Rua 13 de Maio com Rua Carlos Fetter,,-29.22525018,-51.3503015,,,0,,America/Sao_Paulo,,,0
+2429820,,,Rua 13 de Maio com Rua Tomas Edison,,-29.22550532,-51.34933859,,,0,,America/Sao_Paulo,,,0
+2429821,,,Rua 13 de Maio com Rua Tomas Edison,,-29.22546787,-51.34896845,,,0,,America/Sao_Paulo,,,0
+2429822,,,Rua 13 de Maio com Rua Tiradentes,,-29.22575345,-51.34839982,,,0,,America/Sao_Paulo,,,0
+2429823,,,Rua Independencia (Praça),,-29.22669911,-51.34808332,,,0,,America/Sao_Paulo,,,0
+2429824,,,Rua Tiradentes com Rua Independencia,,-29.22638077,-51.34857416,,,0,,America/Sao_Paulo,,,0
+2429825,,,Rua 13 de Maio depois de Rua Rui Barbosa,,-29.22582133,-51.34767562,,,0,,America/Sao_Paulo,,,0
+2429826,,,Rua Rui Barbosa com Rua 13 de Maio,,-29.22608817,-51.34729207,,,0,,America/Sao_Paulo,,,0
+2429827,,,Rua 13 de Maio com Rua Pinheiro Machado,,-29.22609754,-51.34659201,,,0,,America/Sao_Paulo,,,0
+2429828,,,Avenida Paulo Brolio com Rua Luiz Ornaghi,,-29.22676699,-51.35178074,,,0,,America/Sao_Paulo,,,0
+2429829,,,Rua Coronel Pena de Moraes com Avenida Paulo Brolio,,-29.2275055,-51.35191888,,,0,,America/Sao_Paulo,,,0
+2429830,,,Rua Tomas Edison com Rua da Republica,,-29.22705491,-51.34980664,,,0,,America/Sao_Paulo,,,0
+2429831,,,Rua Tomas Edison com Rua da Republica,,-29.22698585,-51.34970739,,,0,,America/Sao_Paulo,,,0
+2429832,,,Rua da Republica com Rua Rui Barbosa,,-29.22759093,-51.34769708,,,0,,America/Sao_Paulo,,,0
+2429833,,,Rua Pinheiro Machado com Rua Coronel Pena de Moraes,,-29.22850615,-51.34726793,,,0,,America/Sao_Paulo,,,0
+2429834,,,Rua Pinheiro Machado com Rua da Republica,,-29.22766116,-51.34698361,,,0,,America/Sao_Paulo,,,0
+2429836,,,Praça da Emancipação,,-29.2244426,-51.34800285,,,0,,America/Sao_Paulo,,,0
+2429837,,,Rua Julio de Castilhos com Rua Jose Dalla Riva,,-29.2250249383736,-51.3446457756665,,,0,,America/Sao_Paulo,,,0
+2429838,,,Rua Julio de Castilhos com Rua Jose Dalla Riva,,-29.2250594,-51.34478956,,,0,,America/Sao_Paulo,,,0
+2429839,,,Rua Vereador Cibelli com Rua 3 de Outubro,,-29.22411957,-51.34403586,,,0,,America/Sao_Paulo,,,0
+2429840,,,Rua 3 de Outubro com Rua Vereador Cibelli,,-29.22418863,-51.34438723,,,0,,America/Sao_Paulo,,,0
+2429841,,,Rua Julio de Castilhos com Rua Atfilio Zaniol,,-29.22353554,-51.34635597,,,0,,America/Sao_Paulo,,,0
+2429842,,,Rua Julio de Castilhos com Rua Atfilio Zaniol,,-29.22328273,-51.34643644,,,0,,America/Sao_Paulo,,,0
+2429843,,,Avenida Paulo Brolio antes Rua Alfonso Menegotto,,-29.22045146,-51.34972483,,,0,,America/Sao_Paulo,,,0
+2429844,,,Rua Maria Mocelini com Rua Julio de Castilhos,,-29.22027355,-51.34878069,,,0,,America/Sao_Paulo,,,0
+2429845,,,Avenida Santa Rita com Rua Giacomo Broilo,,-29.2199903,-51.34614944,,,0,,America/Sao_Paulo,,,0
+2429846,,,Avenida Santa Rita antes Rua Giacomo Broilo,,-29.2206872513887,-51.3457838411746,,,0,,America/Sao_Paulo,,,0
+2429847,,,Avenida Veneza y Rua Rovingo,,-29.21911012,-51.32768512,,,0,,America/Sao_Paulo,,,0
+2429848,,,Avenida Veneza Com Francisco Baldinoti,,-29.21921663,-51.33545414,,,0,,America/Sao_Paulo,,,0
+2429849,,,Avenida Veneza com Rua Angelo Venezon,,-29.21900946,-51.32968873,,,0,,America/Sao_Paulo,,,0
+2429850,,,Avenida Veneza com Rua Ernesto Fetter,,-29.219073,-51.331926,,,0,,America/Sao_Paulo,,,0
+2429851,,,Avenida Veneza com Rua Rovigo,,-29.21898956,-51.32768378,,,0,,America/Sao_Paulo,,,0
+2429852,,,Avenida Veneza com Rua Rovigo,,-29.219144,-51.329697,,,0,,America/Sao_Paulo,,,0
+2429853,,,ERS-122,,-29.2288479,-51.33115053,,,0,,America/Sao_Paulo,,,0
+2429854,,,ERS-122 Em frente a Tramontina,,-29.22174363,-51.33256406,,,0,,America/Sao_Paulo,,,0
+2429855,,,Esquina Rua Ernesto Fetter com Avenida Veneza,,-29.219213944547,-51.333608725767,,,0,,America/Sao_Paulo,,,0
+2429856,,,Esquina Rua José Archiles Colombo com Avenida Veneza,,-29.22008745,-51.33906439,,,0,,America/Sao_Paulo,,,0
+2429857,,,Rota do Sol Euclides Triches,,-29.21961353149,-51.327404143173,,,0,,America/Sao_Paulo,,,0
+2429859,,,Rota do Sol Euclides Triches,,-29.219369,-51.327448,,,0,,America/Sao_Paulo,,,0
+2429860,,,Rua 13 de Maio com Rua Barão do Rio Branco,,-29.22729249,-51.34201214,,,0,,America/Sao_Paulo,,,0
+2429861,,,Rua 3 de Outubro com Rua Marechal Deodoro da Fonseca,,-29.22472233,-51.34138986,,,0,,America/Sao_Paulo,,,0
+2429862,,,Rua Barão do Rio Branco com Rua 13 de Maio,,-29.22773489,-51.34161249,,,0,,America/Sao_Paulo,,,0
+2429863,,,Rua Barão do Rio Branco com Rua 14 de Julho,,-29.226866341212,-51.341188494233,,,0,,America/Sao_Paulo,,,0
+2429864,,,Rua Barão do Rio Branco com Rua Giácomo Brutomezzo,,-29.223924,-51.340328,,,0,,America/Sao_Paulo,,,0
+2429865,,,Rua Barão do Rio Branco com Rua Humberto de Alencar Castelo Branco,,-29.22281339,-51.34007692,,,0,,America/Sao_Paulo,,,0
+2429866,,,Rua Ernesto Fetter com Avenida Veneza,,-29.21938635,-51.33768439,,,0,,America/Sao_Paulo,,,0
+2429867,,,Rua Lateral com Rua Marcos Benvenutti,,-29.21973046,-51.34301126,,,0,,America/Sao_Paulo,,,0
+2429868,,,Rua Lateral com Rua Marechal Deodoro da Fonseca,,-29.22113266,-51.34029821,,,0,,America/Sao_Paulo,,,0
+2429869,,,Rua Lateral em frente a Dorigon,,-29.221592,-51.337324,,,0,,America/Sao_Paulo,,,0
+2429870,,,Rua Lateral na frente do posto de gasolina,,-29.22031803,-51.33073479,,,0,,America/Sao_Paulo,,,0
+2429871,,,Rua Marechal Deodoro da Fonseca com Rua Assis Brasil,,-29.21927164,-51.34015337,,,0,,America/Sao_Paulo,,,0
+2429872,,,Avenida das Industrios com Rua Bage,,-29.22485458,-51.32509947,,,0,,America/Sao_Paulo,,,0
+2429873,,,Rua Bage antes Rua Guapore,,-29.22500908,-51.32393539,,,0,,America/Sao_Paulo,,,0
+2429877,,,Avenida das Industrias com Rota do Sol Euclides Triches,,-29.21925994,-51.32547766,,,0,,America/Sao_Paulo,,,0
+2429878,,,Avenida das Industrias com Rota do Sol Euclides Triches,,-29.21945658,-51.32557422,,,0,,America/Sao_Paulo,,,0
+2429879,,,Rua Porto Alegre com Rua Ronda Alta,,-29.2289111,-51.32189959,,,0,,America/Sao_Paulo,,,0
+2429880,,,Rua Porto Alegre com Rua Ronda Alta,,-29.22879874,-51.32198006,,,0,,America/Sao_Paulo,,,0
+2429882,,,Rua Porto Alegre com Rua Arthur Pedrotini,,-29.227568203604,-51.320351534448,,,0,,America/Sao_Paulo,,,0
+2429883,,,Rua Arthur Pedrotini com Acesso Viario Bertoni,,-29.2269415322742,-51.3201945531905,,,0,,America/Sao_Paulo,,,0
+2429886,,,Rua bom Jesus com Rua Vacaria,,-29.2254351,-51.3199389,,,0,,America/Sao_Paulo,,,0
+2429887,,,Rua bom Jesus com Rua Vacaria,,-29.22533211,-51.31980479,,,0,,America/Sao_Paulo,,,0
+2429888,,,Rua Manoel Pasqual com Rua Arcangelo Milesi,,-29.22414357863,-51.31813951924,,,0,,America/Sao_Paulo,,,0
+2429889,,,Rua Manoel Pasqual com Rua Arcangelo Milesi,,-29.22403062,-51.31814182,,,0,,America/Sao_Paulo,,,0
+2429890,,,Rua Santo Augusto com Rua Manoel Pasqual,,-29.22433493,-51.31700188,,,0,,America/Sao_Paulo,,,0
+2429892,,,Rua Joao Filho com Rua Sao Borja,,-29.225786082719,-51.316999932537,,,0,,America/Sao_Paulo,,,0
+2429897,,,Rua Prefeito Joao Grande com Rua Millo Ornaghi,,-29.22506526,-51.31288737,,,0,,America/Sao_Paulo,,,0
+2429899,,,Rua Jacomo Calabria com Rua Prefeito Giacomo Valentin Luchese,,-29.22578153,-51.31206393,,,0,,America/Sao_Paulo,,,0
+2429900,,,Rua Prefeito Giacomo Valentin Luchese com Rua Millo Ornaghi,,-29.224747613643,-51.31204036151,,,0,,America/Sao_Paulo,,,0
+2429912,,,Estrada para Garibaldi,,-29.231878119116,-51.382551044615,,,0,,America/Sao_Paulo,,,0
+2429913,,,Estrada para Garibaldi,,-29.232016,-51.3946,,,0,,America/Sao_Paulo,,,0
+2429914,,,Estrada para Garibaldi,,-29.231761229483,-51.388038889133,,,0,,America/Sao_Paulo,,,0
+2429915,,,R. Alexandre Bartelle com R. Geovane Chies,,-29.23489375,-51.36250019,,,0,,America/Sao_Paulo,,,0
+2429916,,,R. Alexandre Bartelle com R. Geovane Chies,,-29.23489843,-51.36234999,,,0,,America/Sao_Paulo,,,0
+2429917,,,R. Alexandre Bartelle com R. Muçum,,-29.23175735,-51.36245728,,,0,,America/Sao_Paulo,,,0
+2429918,,,R. Alexandre Bartelle com R. Muçum,,-29.2316684,-51.36257529,,,0,,America/Sao_Paulo,,,0
+2429919,,,R. Alexandre Bartelle com R. Paim Filho ( Escola Vivian Maggioni),,-29.23331152,-51.36240363,,,0,,America/Sao_Paulo,,,0
+2429920,,,R. Alexandre Bartelle com R. Paim Filho ( Escola Vivian Maggioni),,-29.23327173,-51.36251763,,,0,,America/Sao_Paulo,,,0
+2429921,,,R. Alexandre Bartelle com R. Tercílio Mello,,-29.22970927,-51.36251092,,,0,,America/Sao_Paulo,,,0
+2429922,,,R. Alexandre Bartelle com R. Tercílio Mello,,-29.22966948,-51.36264235,,,0,,America/Sao_Paulo,,,0
+2429923,,,R. Papa João XXIII (TRILHOS),,-29.22916623,-51.36195838,,,0,,America/Sao_Paulo,,,0
+2429924,,,R. Papa João XXIII com R. Hilário Hilgert,,-29.22996675,-51.36493027,,,0,,America/Sao_Paulo,,,0
+2429925,,,R. Papa João XXIII com R. Hilário Hilgert,,-29.22988014,-51.36502147,,,0,,America/Sao_Paulo,,,0
+2429926,,,Rua Alexandre Bartelle com Rua Honório Pandolfo,,-29.23711726,-51.36233792,,,0,,America/Sao_Paulo,,,0
+2429927,,,Rua Alexandre Bartelle com Rua Honório Pandolfo,,-29.23715588,-51.36240765,,,0,,America/Sao_Paulo,,,0
+2429928,,,Rua Carazinho (Condomínio Nova Vicenza),,-29.2291873,-51.36642158,,,0,,America/Sao_Paulo,,,0
+2429929,,,Rua Carazinho (Condomínio Nova Vicenza),,-29.22921305,-51.36628211,,,0,,America/Sao_Paulo,,,0
+2429930,,,Rua Carazinho com Rua Papa João XXIII,,-29.23061745,-51.36637598,,,0,,America/Sao_Paulo,,,0
+2429931,,,Rua Carazinho com Rua Papa João XXIII,,-29.23074853,-51.36631697,,,0,,America/Sao_Paulo,,,0
+2429932,,,Rua Papa João XXIII (TRILHOS),,-29.22929731,-51.36397541,,,0,,America/Sao_Paulo,,,0
+2429933,,,Rua Bortolo Grendene em frente Rua Pedro Fagherazzi,,-29.233071673196,-51.347105951148,,,0,,America/Sao_Paulo,,,0
+2429934,,,Rua Bortolo Grendene esquina com Rua Pedro Fagherazzi,,-29.233162734048,-51.347663053992,,,0,,America/Sao_Paulo,,,0
+2429935,,,Rua José Rizzo com Rua Ary Zanonatto,,-29.23328577,-51.35987699,,,0,,America/Sao_Paulo,,,0
+2429936,,,Rua José Rizzo com Rua Giovani Chies,,-29.23510206,-51.35983676,,,0,,America/Sao_Paulo,,,0
+2429937,,,Rua Paim Filho em Frente Rua Edvino Blauth,,-29.23234016,-51.35755956,,,0,,America/Sao_Paulo,,,0
+2429938,,,Rua Paim Filho esquina com Rua 7 de Setembro,,-29.23146945,-51.35551572,,,0,,America/Sao_Paulo,,,0
+2429939,,,Rua Papa João XXIII em frente Super Lazzari,,-29.23076257,-51.35626137,,,0,,America/Sao_Paulo,,,0
+2429940,,,Rua Papa João XXIII entre Rua Armando Antonello e Rua Emilio Weissheimer,,-29.23068533,-51.35621041,,,0,,America/Sao_Paulo,,,0
+2429941,,,Rua Pedro Mandelli entre Rua José Rizzo e Rua Theodoro Portolan,,-29.235784877455,-51.360328781469,,,0,,America/Sao_Paulo,,,0
+2429942,,,Rua Pinheiro Machado esquina com Rua Rômulo Noro,,-29.22972332,-51.34760857,,,0,,America/Sao_Paulo,,,0
+2429943,,,Rua Rui Barbosa esquina Rua 11 de Dezembro,,-29.23005803,-51.34866402,,,0,,America/Sao_Paulo,,,0
+2429944,,,Rua Santo Leonardelli com Rua Paim Filho,,-29.23117921,-51.35626942,,,0,,America/Sao_Paulo,,,0
+2429945,,,Rua Theodoro Portolan em frente Rua Maximiliano Dorigon,,-29.23664915,-51.36096328,,,0,,America/Sao_Paulo,,,0
+2429946,,,Avenida Pedro Grendene (Antiga Estação Férrea),,-29.2305554810329,-51.3421646190786,,,0,,America/Sao_Paulo,,,0
+2429947,,,Avenida Pedro Grendene (Clube 1° de Maio),,-29.23492886,-51.33823425,,,0,,America/Sao_Paulo,,,0
+2429948,,,Avenida Pedro Grendene (Medi Tricot),,-29.235363,-51.336157,,,0,,America/Sao_Paulo,,,0
+2429949,,,Avenida Pedro Grendene com Rua Bortolo Grendene,,-29.2334777,-51.34216771,,,0,,America/Sao_Paulo,,,0
+2429950,,,Avenida Pedro Grendene com Rua Cristóvāo Farias de Lima,,-29.23498152,-51.3385655,,,0,,America/Sao_Paulo,,,0
+2429951,,,Avenida Pedro Grendene com Rua Nataly Valentini,,-29.2311558,-51.34239301,,,0,,America/Sao_Paulo,,,0
+2429952,,,ERS 122,,-29.22931838,-51.33072674,,,0,,America/Sao_Paulo,,,0
+2429953,,,ERS 122,,-29.233956243002,-51.332250792186,,,0,,America/Sao_Paulo,,,0
+2429954,,,ERS 122,,-29.22933944,-51.33093059,,,0,,America/Sao_Paulo,,,0
+2429955,,,ERS 122 com Rua Francisco Barreta,,-29.234258,-51.332381,,,0,,America/Sao_Paulo,,,0
+2429956,,,Rodoviária,,-29.23448883,-51.33312196,,,0,,America/Sao_Paulo,,,0
+2429957,,,Rua Angelo Rigatti entre Avenida Pedro Grendene e Rua Silveira Martins,,-29.234861,-51.335106,,,0,,America/Sao_Paulo,,,0
+2429958,,,Rua Camilo Brasileiro com Rio Grande (Escola São Pio X),,-29.231078,-51.334396,,,0,,America/Sao_Paulo,,,0
+2429959,,,Rua Carlos Egger com São Gerônimo,,-29.231254917237,-51.337425210535,,,0,,America/Sao_Paulo,,,0
+2429960,,,Rua Carlos Egger com São Gerônimo,,-29.231174633733,-51.337439269203,,,0,,America/Sao_Paulo,,,0
+2429961,,,Rua Francisco Barreta com Ambrosio Cirippa,,-29.234361,-51.326448,,,0,,America/Sao_Paulo,,,0
+2429962,,,Rua Francisco Barreta com Joco Roso,,-29.234305952975,-51.328291733044,,,0,,America/Sao_Paulo,,,0
+2429963,,,Rua Francisco Barreta com Joco Roso,,-29.234211504413,-51.328289368369,,,0,,America/Sao_Paulo,,,0
+2429964,,,Rua Francisco Barreta com Modesto Piccoli,,-29.23335599,-51.32793188,,,0,,America/Sao_Paulo,,,0
+2429965,,,Rua Francisco Barreta com Reinaldo Scherner,,-29.23412721,-51.33045316,,,0,,America/Sao_Paulo,,,0
+2429966,,,Rua Francisco Barreta com Reinaldo Scherner,,-29.23418456,-51.33045852,,,0,,America/Sao_Paulo,,,0
+2429967,,,Rua Francisco Barreta entre Rua João Magioni e ERS-122,,-29.234138,-51.331644,,,0,,America/Sao_Paulo,,,0
+2429968,,,Rua General Osório com Rua Silveira Martins,,-29.23347887,-51.33767769,,,0,,America/Sao_Paulo,,,0
+2429969,,,1372 Rua Carlos Egger,,-29.231362723797,-51.339380912316,,,0,,America/Sao_Paulo,,,0
+2429970,,,Rua Nataly Valentini com Getúlio Vargas,,-29.23135242,-51.34059191,,,0,,America/Sao_Paulo,,,0
+2429971,,,Rua Ranieri Petrin (Escola José Fanton),,-29.23725184,-51.33919984,,,0,,America/Sao_Paulo,,,0
+2429972,,,Rua Ranieri Petrin com Avenida Pedro Grendene,,-29.23525068,-51.33792177,,,0,,America/Sao_Paulo,,,0
+2429973,,,Rua São Gerônimo com Rua Camilo Brasileiro,,-29.23004984,-51.33710101,,,0,,America/Sao_Paulo,,,0
+2429974,,,Rua São Gerônimo com Rua Planalto,,-29.22959575,-51.33271024,,,0,,America/Sao_Paulo,,,0
+2429975,,,Rua São Gerônimo entre Rua Dom Pedro II e Rua Serafim Sperafico,,-29.22932425408,-51.335600194898,,,0,,America/Sao_Paulo,,,0
+2429976,,,Rua Silveira Martins com Angelo Rigatti,,-29.23415764,-51.33480906,,,0,,America/Sao_Paulo,,,0
+2429977,,,Rua Silveira Martins com Rua Dom Pedro II,,-29.2338124,-51.33670807,,,0,,America/Sao_Paulo,,,0
+2429978,,,stop,,-29.23368601,-51.34177744,,,0,,America/Sao_Paulo,,,0
+2429979,,,Rua Alberto Matte com Rua André Colombo,,-29.23188374,-51.32530063,,,0,,America/Sao_Paulo,,,0
+2429980,,,Rua Aléssio Caduro (entre Rua Arthur Pedrotoni e Rua Domingos Roncatto),,-29.2326854,-51.31933942,,,0,,America/Sao_Paulo,,,0
+2429981,,,Rua Aléssio Caduro (entre Rua Ronda Alfa e Rua Arthur Pedrotoni,,-29.23257188,-51.32104665,,,0,,America/Sao_Paulo,,,0
+2429982,,,Rua Aléssio Cauduro com Rua Rua João Batista Molon,,-29.232732,-51.317635,,,0,,America/Sao_Paulo,,,0
+2429983,,,Rua André Colombo com Rua Alberto Matte,,-29.231771,-51.325225,,,0,,America/Sao_Paulo,,,0
+2429984,,,Rua Arthur Pedrotini (entre Rua Canela e Rua Encantado),,-29.230182916344,-51.320363622465,,,0,,America/Sao_Paulo,,,0
+2429985,,,Rua Domingos Roncatto com Rua Arthur Pedrotoni,,-29.23316523,-51.32030636,,,0,,America/Sao_Paulo,,,0
+2429986,,,Rua Domingos Roncatto com Rua João Batista Molon,,-29.23326939,-51.31756246,,,0,,America/Sao_Paulo,,,0
+2429987,,,Rua Encantado (entre Rua Ronda Alta e Rua Antônio Benvenutti),,-29.230404759751,-51.321641693159,,,0,,America/Sao_Paulo,,,0
+2429988,,,Rua Francisco Barreta com Rua Alberto Matte,,-29.234403178849,-51.325808161596,,,0,,America/Sao_Paulo,,,0
+2429989,,,Rua Pedro Arosi com Rua Alberto Mate,,-29.233166769369,-51.32527820335,,,0,,America/Sao_Paulo,,,0
+2429990,,,Rua Pedro Arosi com Rua Carlos Barreta,,-29.2333829,-51.32280618,,,0,,America/Sao_Paulo,,,0
+2429991,,,Rua Porto Alegre (entre Rua Bom Princípio e Avenida das Indústrias),,-29.2311810677952,-51.3240180108942,,,0,,America/Sao_Paulo,,,0
+2429992,,,Rua Porto Alegre com Avenida das Indústrias,,-29.230933653335,-51.324020293698,,,0,,America/Sao_Paulo,,,0
+2429993,,,Rua Raimundo Rossi (entre a Rua Ambrosio Crippa e a Rua Alberto Matte),,-29.236271680857,-51.325610399793,,,0,,America/Sao_Paulo,,,0
+2429994,,,Desvio Blauth,,-29.239811674043,-51.456935483706,,,0,,America/Sao_Paulo,,,0
+2429995,,,Desvio Blauth,,-29.237395339867,-51.457561621905,,,0,,America/Sao_Paulo,,,0
+2429996,,,Desvio Blauth,,-29.248654,-51.473958,,,0,,America/Sao_Paulo,,,0
+2429997,,,Estrada para Garibald ou Estrada Morro do Macaco VRS-313,,-29.239238008164,-51.407275911561,,,0,,America/Sao_Paulo,,,0
+2429998,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.243669910931,-51.435564223497,,,0,,America/Sao_Paulo,,,0
+2429999,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24654674,-51.43821359,,,0,,America/Sao_Paulo,,,0
+2430000,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24409876,-51.45563185,,,0,,America/Sao_Paulo,,,0
+2430001,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.241289933126,-51.416571150286,,,0,,America/Sao_Paulo,,,0
+2430002,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.242311,-51.424771,,,0,,America/Sao_Paulo,,,0
+2430003,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24283965,-51.42265409,,,0,,America/Sao_Paulo,,,0
+2430004,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.241449,-51.427106,,,0,,America/Sao_Paulo,,,0
+2430005,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.2483628,-51.46133423,,,0,,America/Sao_Paulo,,,0
+2430006,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.245892,-51.460175,,,0,,America/Sao_Paulo,,,0
+2430007,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.246362,-51.451767,,,0,,America/Sao_Paulo,,,0
+2430008,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24753902,-51.44579887,,,0,,America/Sao_Paulo,,,0
+2430009,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.240842731147,-51.430016596668,,,0,,America/Sao_Paulo,,,0
+2430010,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24193158,-51.42609,,,0,,America/Sao_Paulo,,,0
+2430011,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.24008,-51.412223,,,0,,America/Sao_Paulo,,,0
+2430012,,,Rua que vai para a Estrada para Garibaldi ou Estrada Morro dos Macacos,,-29.238983,-51.479226,,,0,,America/Sao_Paulo,,,0
+2430013,,,stop,,-29.23360175,-51.46484524,,,0,,America/Sao_Paulo,,,0
+2430014,,,stop,,-29.23468544,-51.46189213,,,0,,America/Sao_Paulo,,,0
+2430015,,,stop,,-29.246197565715,-51.451661634638,,,0,,America/Sao_Paulo,,,0
+2430016,,,stop,,-29.24798133,-51.44539922,,,0,,America/Sao_Paulo,,,0
+2430017,,,stop,,-29.24136754,-51.41633481,,,0,,America/Sao_Paulo,,,0
+2430018,,,Rua Aurora Argentina Dalla Riva Tartarotti com Rua Luiz Zanfelice,,-29.248657,-51.363256,,,0,,America/Sao_Paulo,,,0
+2430019,,,Rua Aurora Argentina Dalla Riva Tartarotti entre a rua Moacir J Bassoto  e Josué Valandro,,-29.24862,-51.361363,,,0,,America/Sao_Paulo,,,0
+2430021,,,Rua Luis Zanfelice com Rua Orlando V.  Varaschini,,-29.249802,-51.362834,,,0,,America/Sao_Paulo,,,0
+2430022,,,Rua Vicente R. Farinon,,-29.249146,-51.364239,,,0,,America/Sao_Paulo,,,0
+2430023,,,Rua Antônio F. Pedó,,-29.24761976,-51.35872632,,,0,,America/Sao_Paulo,,,0
+2430024,,,Rua Antônio F. Pedó com Lucindo Lotti,,-29.24615942,-51.35878667,,,0,,America/Sao_Paulo,,,0
+2430025,,,Rua Aurora Argentina Dalla Riva Tartarotti com a Rua Rodolpho A. Felicetti,,-29.24857693,-51.35963827,,,0,,America/Sao_Paulo,,,0
+2430026,,,Rua Aurora Argentina Dalla Riva Tartarotti com a Rua Rodolpho A. Felicetti,,-29.24865299,-51.35968253,,,0,,America/Sao_Paulo,,,0
+2430027,,,Rua Aurora Argentina Dalla Riva Tartarotti com a Rua Walter Tolosa Corrêa da Silva,,-29.24721,-51.354448,,,0,,America/Sao_Paulo,,,0
+2430028,,,Rua Aurora Argentina Dalla Riva Tartarotti com Rua Egide A. Faguerazzi,,-29.2486132,-51.35724574,,,0,,America/Sao_Paulo,,,0
+2430029,,,Rua Gerônimo Francischini com a Rua Eliza V. Felte,,-29.25188248,-51.34902075,,,0,,America/Sao_Paulo,,,0
+2430030,,,Rua Gerônimo Francischini com a Rua Eliza V. Felter,,-29.25143316,-51.34981602,,,0,,America/Sao_Paulo,,,0
+2430031,,,Rua Gerônimo Francischini com a Rua Francisco Fernando de Matos,,-29.25117106,-51.35220051,,,0,,America/Sao_Paulo,,,0
+2430032,,,Rua Gerônimo Francischini entre a Rua Leopoldo dos Santos e Zilá Luz d'Ávila,,-29.25110554,-51.35396004,,,0,,America/Sao_Paulo,,,0
+2430033,,,Rua Lucindo Loddi com Rua Rialdo Danilo Damin,,-29.24560126,-51.35768965,,,0,,America/Sao_Paulo,,,0
+2430034,,,Rua Walter Corrêa da Silva,,-29.250327179551,-51.354745114946,,,0,,America/Sao_Paulo,,,0
+2430035,,,Rua Walter Tolosa Corrêa da Silva,,-29.250106018057,-51.354704254882,,,0,,America/Sao_Paulo,,,0
+2430036,,,Rua Aurora Argentina Dalla Riva Tartarotti com Rua Egide A. Faguerazzi,,-29.24850555,-51.35729939,,,0,,America/Sao_Paulo,,,0
+2430037,,,Rua Walter Tolosa Correa da Silva com beco sem saída,,-29.24653738,-51.35378033,,,0,,America/Sao_Paulo,,,0
+2430038,,,Rua Walter Tolosa Correa da Silva depois de Rua Lucindo Loddi,,-29.24540584,-51.35361671,,,0,,America/Sao_Paulo,,,0
+2430039,,,Rua Walter Tolosa Correa da Silva antes Rua Lucindo Loddi,,-29.2453017,-51.35351747,,,0,,America/Sao_Paulo,,,0
+2430040,,,Rua Lucindo Loddi antes Rua Santiago,,-29.24527478,-51.35433421,,,0,,America/Sao_Paulo,,,0
+2430041,,,Rua Santiago com Rua Lucindo Loddi,,-29.24532574418,-51.354803891965,,,0,,America/Sao_Paulo,,,0
+2430042,,,Rua Lucindo Loddi com Rua Santiago,,-29.24546552,-51.35492697,,,0,,America/Sao_Paulo,,,0
+2430043,,,Rua Santiago com Rua Itacir Raimundo Zatti,,-29.24396653,-51.35460913,,,0,,America/Sao_Paulo,,,0
+2430044,,,Rua Santiago com Rua Itacir Raimundo Zatti,,-29.24368218,-51.35468423,,,0,,America/Sao_Paulo,,,0
+2430045,,,Rua Santiago com Rua Wilson Tartarotti,,-29.24255412,-51.35458097,,,0,,America/Sao_Paulo,,,0
+2430046,,,Rua Wilson Tartarotti com Rua Santiago,,-29.24272029,-51.35427788,,,0,,America/Sao_Paulo,,,0
+2430047,,,Rua Wilson Tartarotti com Rua Santiago,,-29.24265593,-51.35427788,,,0,,America/Sao_Paulo,,,0
+2430048,,,Rua Wilson Tartarotti com Rua Pasqual Paraboni,,-29.24298592,-51.35073468,,,0,,America/Sao_Paulo,,,0
+2430049,,,Rua Wilson Tartarotti com Rua Pasqual Paraboni,,-29.24292156,-51.35063946,,,0,,America/Sao_Paulo,,,0
+2430050,,,Rua Wilson Tartarotti com Rua Delmo Kreber,,-29.24312868,-51.34880349,,,0,,America/Sao_Paulo,,,0
+2430051,,,Rua Wilson Tartarotti com Rua Delmo Kreber,,-29.24312868,-51.34798944,,,0,,America/Sao_Paulo,,,0
+2430052,,,Rua Pedro Antonello com Rua Augusto Crippa,,-29.24272029,-51.34726524,,,0,,America/Sao_Paulo,,,0
+2430053,,,Rua Wilson Tartarotti com Rua Germano Osmarini,,-29.24329602,-51.34641096,,,0,,America/Sao_Paulo,,,0
+2430054,,,Rua Wilson Tartarotti com Rua Germano Osmarini,,-29.24322113,-51.34639889,,,0,,America/Sao_Paulo,,,0
+2430055,,,Rua Ranieri Petrin antes Rua Wilson Tartarotti,,-29.24312634,-51.34412169,,,0,,America/Sao_Paulo,,,0
+2430056,,,Rua Ranieri Petrin depois de Rua Wilson Tartarotti,,-29.24300933,-51.34410158,,,0,,America/Sao_Paulo,,,0
+2430057,,,Rua Pedro Antonello com Rua Jacomina Veronese,,-29.24153839,-51.34717941,,,0,,America/Sao_Paulo,,,0
+2430058,,,Rua Ranieri Petrin com Rua Jacomina Veronese,,-29.2414869,-51.34343103,,,0,,America/Sao_Paulo,,,0
+2430059,,,Rua Ranieri Petrin com Rua Jacomina Veronese,,-29.24143424,-51.34349942,,,0,,America/Sao_Paulo,,,0
+2430060,,,Rua Arquimedes Peroton com Rua Antonio Grendene,,-29.2411686,-51.34486198,,,0,,America/Sao_Paulo,,,0
+2430061,,,Rua Antonio Grendene com Rua Germano Osmarini,,-29.2409135,-51.34604216,,,0,,America/Sao_Paulo,,,0
+2430062,,,Rua Antonio Sachet com Rua Arquimedes Peroton,,-29.24045477,-51.34425044,,,0,,America/Sao_Paulo,,,0
+2430063,,,Rua Antonio Sachet com Rua Arquimedes Peroton,,-29.24034945,-51.34423971,,,0,,America/Sao_Paulo,,,0
+2430064,,,stop,,-29.24049924,-51.35039002,,,0,,America/Sao_Paulo,,,0
+2430065,,,Rua Evandro Casagrande com Rua Achylles F. Bonfanti,,-29.24138626,-51.35328144,,,0,,America/Sao_Paulo,,,0
+2430066,,,Rua Antonio Grendene com Rua Seberi,,-29.24045711,-51.35248214,,,0,,America/Sao_Paulo,,,0
+2430067,,,Rua Antonio Grendene com Rua Seberi,,-29.24035179,-51.35245532,,,0,,America/Sao_Paulo,,,0
+2430068,,,Rua Pasqual Paraboni com Rua Antonio Grendene,,-29.240386680045,-51.350551933715,,,0,,America/Sao_Paulo,,,0
+2430069,,,Rua Seberini com Rua Antonio Sachet,,-29.23991413,-51.35192156,,,0,,America/Sao_Paulo,,,0
+2430070,,,Rua Seberini com Rua Antonio Sachet,,-29.23993988,-51.35184243,,,0,,America/Sao_Paulo,,,0
+2430071,,,Rua Antonioi Grendene com Rua Delmo Kreber,,-29.24063967,-51.34845614,,,0,,America/Sao_Paulo,,,0
+2430072,,,Rua Antonio Sachet com Rua Carlos Alberto Rovatti,,-29.23998902,-51.34931713,,,0,,America/Sao_Paulo,,,0
+2430073,,,Rua Antonio Sachet com Rua Carlos Alberto Rovatti,,-29.24008498,-51.34917766,,,0,,America/Sao_Paulo,,,0
+2430074,,,Rua Pedro Antonello com Rua Lino Zanonatto,,-29.23983924,-51.34698898,,,0,,America/Sao_Paulo,,,0
+2430075,,,Rua Pedro Antonello com Rua Lino Zanonatto,,-29.23935242,-51.3471365,,,0,,America/Sao_Paulo,,,0
+2430076,,,Rua Lino Zanonatto com Rua Carlos Alberto Rovatti,,-29.23941795,-51.34916157,,,0,,America/Sao_Paulo,,,0
+2430077,,,Rua Achylles F. Bonfanti com Rua Arquimedes Peroton,,-29.24211179,-51.34514093,,,0,,America/Sao_Paulo,,,0
+2430078,,,Rua Pedro Antonello com Rua Silvio Vicente Soprana,,-29.23798441,-51.34695143,,,0,,America/Sao_Paulo,,,0
+2430079,,,Rua Pedro Antonello com Rua Silvio Vicente Soprana,,-29.238102181049,-51.346807437317,,,0,,America/Sao_Paulo,,,0
+2430080,,,Raineri Petrini com Travessa Marcelino Mauri,,-29.23905284,-51.34262234,,,0,,America/Sao_Paulo,,,0
+2430081,,,Rua Raineri Petrini em frente a entrada da Rua Piratini,,-29.238014106986,-51.341941527847,,,0,,America/Sao_Paulo,,,0
+2430082,,,Rua Raineri Petrini Entre Avelino Vieira e Travessa Marcelino Mauri,,-29.23926114,-51.34273231,,,0,,America/Sao_Paulo,,,0
+2430083,,,Rua Alberto Matte entre Rua Florentino Perotoni e Rua Dante Pedro Maliverno,,-29.238339059765,-51.325487704646,,,0,,America/Sao_Paulo,,,0
+2430094,,,Rua João Albílio Werner com Rua Emílio Theodomiro Denicol,,-29.221457519981,-51.357899978267,,,0,,America/Sao_Paulo,,,0
+2430095,,,Rua Arcângelo Chiele com Rua Emílio Weissheimer,,-29.221084049776,-51.356468648117,,,0,,America/Sao_Paulo,,,0
+2430096,,,Rua Arcângelo Chiele,,-29.221391274617,-51.354733110676,,,0,,America/Sao_Paulo,,,0
+2430097,,,Rua Armando Antonello com Rua 14 de Julho,,-29.223009600292,-51.353687150685,,,0,,America/Sao_Paulo,,,0
+2430098,,,Rua Coronel Pena de Moraes,,-29.229208494256,-51.345127902722,,,0,,America/Sao_Paulo,,,0
+2430099,,,Rua Coronel Pena de Moraes com Rua Barão do Rio Branco,,-29.229885269513,-51.342542026539,,,0,,America/Sao_Paulo,,,0
+2430101,,,Avenida Pedro Grendene (Antiga Estação Férrea),,-29.230512556874,-51.342450679939,,,0,,America/Sao_Paulo,,,0
+2430106,,,Rua Giovani Zanoatto com Rua Adelina Ângela Fae Guerra,,-29.214660574535,-51.338553133425,,,0,,America/Sao_Paulo,,,0
+2430111,,,Avenida Veneza com Ângelo Venzon,,-29.219181403633,-51.331938642907,,,0,,America/Sao_Paulo,,,0
+2430113,,,Rua Sem Nome Entre Florentino Perotoni e Dante Pedro Maliverno,,-29.238322794221,-51.322813007491,,,0,,America/Sao_Paulo,,,0
+2430114,,,Rua Dante Sério Maccari com Rua Domenico Fin,,-29.215845073018,-51.34075082326,,,0,,America/Sao_Paulo,,,0
+2430115,,,Rua Santo Ângelo com Rua Santa Maria,,-29.222633021556,-51.317597223801,,,0,,America/Sao_Paulo,,,0
+2430116,,,Santuário de Nossa Senhora do Caravaggio,,-29.173679785461,-51.345956182045,,,0,,America/Sao_Paulo,,,0
+2430117,,,Rua Santo Ângelo entre Rua Pasqual Filho e Rua Roca Sales,,-29.217118839717,-51.31779729183,,,0,,America/Sao_Paulo,,,0
+2430118,,,Rua Santo Ângelo quase esquina com Rua Santa Maria,,-29.222414739669,-51.317714606875,,,0,,America/Sao_Paulo,,,0
+2430119,,,Rodovia dos Romeiros (em frente a Casa Lar),,-29.200978393274,-51.346673975802,,,0,,America/Sao_Paulo,,,0
+2430120,,,Rua Joao Fabrio Filho com Rua Santa Maria,,-29.222825321516,-51.313555096771,,,0,,America/Sao_Paulo,,,0
+2430121,,,Rua Hilario Hilgert entre ,,-29.225563716923,-51.364787565251,,,0,,America/Sao_Paulo,,,0
+2430123,,,Rua São Gabriel com Rua Rondinha,,-29.219612768552,-51.31540940103,,,0,,America/Sao_Paulo,,,0
+2430124,,,Rua Ronda Alta entre Rua Nonoai e Rua Aléssio Cauduro,,-29.230949904504,-51.321815710271,,,0,,America/Sao_Paulo,,,0
+2430125,,,Rua Pedro Arosi com Rua Carlos Barreta,,-29.233275063995,-51.322822178825,,,0,,America/Sao_Paulo,,,0
+2430126,,,Rua Pedro Arosi com Rua Alberto Matte,,-29.233262871253,-51.325150518744,,,0,,America/Sao_Paulo,,,0
+2430333,,,Rua Aurora Argentina Dalla Riva Tartarotti com a Rua Walter Tolosa Corrêa da Silva,,-29.24727073207,-51.354380028678,,,0,,America/Sao_Paulo,,,0
+2430334,,,Rua Walter Tolosa Correa da Silva com beco sem saída,,-29.246526614704,-51.353629805507,,,0,,America/Sao_Paulo,,,0
+2430352,,,Rua Stefano Crippa com Rodovia dos Romeiros,,-29.209135289639,-51.353427018267,,,0,,America/Sao_Paulo,,,0
+2430353,,,Rua Garibaldi com Rua Luigi Sperafico,,-29.210143616481,-51.354482853503,,,0,,America/Sao_Paulo,,,0
+2430354,,,Rua Garibaldi com Rua Cristiano Antonio Frederico Fetter,,-29.210221621176,-51.360538561763,,,0,,America/Sao_Paulo,,,0
+2430355,,,Rua Cristiano Antônio Frederico Fetter entre Rua Amadeu Cotta e Rua Amália Bampi,,-29.208251469613,-51.360595344246,,,0,,America/Sao_Paulo,,,0
+2430872,,,Rua Santo Angelo,,-29.218409220077,-51.31766307338,,,0,,America/Sao_Paulo,,,0
+2430873,,,Rua João Fabro Filho con Rua São Borja,,-29.22579780285,-51.31621994517,,,0,,America/Sao_Paulo,,,0
+2430874,,,Rua Alberto Matte com Rua André Colombo,,-29.231871611394,-51.325359863717,,,0,,America/Sao_Paulo,,,0
+2430875,,,Rua Pedro Arosi com Rua Alberto Matte,,-29.233157588162,-51.325460956025,,,0,,America/Sao_Paulo,,,0
+2434980,,,Rua São Vicente com Rua Domenico Fin,,-29.216202386411,-51.347787797646,,,0,,America/Sao_Paulo,,,0
+2434981,,,Rua João Fabro Filho con Rua São Borja,,-29.225922860625,-51.316210678471,,,0,,America/Sao_Paulo,,,0
+2435027,,,Rua General Osorio com Avenida Pedro Grendene,,-29.234773035782,-51.337938964123,,,0,,America/Sao_Paulo,,,0
+2435028,,,Salão comunitário,,-29.210169460431,-51.323131979578,,,0,,America/Sao_Paulo,,,0
+2435029,,,Rua Veneto com Rua Domenico Fin,,-29.216596181893,-51.346256359965,,,0,,America/Sao_Paulo,,,0
+2435030,,,Rua Padre Oscar Bertholdo com Ãngelo Fae,,-29.210462634266,-51.338157395518,,,0,,America/Sao_Paulo,,,0
+2435031,,,Rua Adelina Ângela Fae Guerra com Rua Cachoeirinha,,-29.211560928977,-51.338395778079,,,0,,America/Sao_Paulo,,,0
+2435032,,,Rua Adelina Ângela Fae Guerra com Rua Alexandre Sachet,,-29.213585185779,-51.338364120894,,,0,,America/Sao_Paulo,,,0
+2435033,,,Rua Herval com Rua Erechim,,-29.213018268341,-51.334466800301,,,0,,America/Sao_Paulo,,,0
+2435034,,,Rua Herval com  Rua Luiz Rufatto,,-29.21302921972,-51.333657241094,,,0,,America/Sao_Paulo,,,0
+2435035,,,Rua Esmeralda com Rua Ernesto Fetter,,-29.213978813247,-51.332653034017,,,0,,America/Sao_Paulo,,,0
+2435036,,,Rua Treviso com Rua Trento,,-29.216987793924,-51.328354726124,,,0,,America/Sao_Paulo,,,0
+2435037,,,Rua Rovigo com Rua Beluno,,-29.218421647826,-51.327659793941,,,0,,America/Sao_Paulo,,,0
+2435040,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.244248636795,-51.455650750167,,,0,,America/Sao_Paulo,,,0
+2435041,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.246644046446,-51.437995697577,,,0,,America/Sao_Paulo,,,0
+2435042,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.240931994708,-51.429977112787,,,0,,America/Sao_Paulo,,,0
+2435043,,,Estrada para Garibaldi,,-29.232099614113,-51.394581304106,,,0,,America/Sao_Paulo,,,0
+2435044,,,Estrada para Garibaldi,,-29.23186431162,-51.388073083309,,,0,,America/Sao_Paulo,,,0
+2435045,,,Estrada para Garibaldi,,-29.231993576577,-51.382547153247,,,0,,America/Sao_Paulo,,,0
+2435046,,,Rua Domenico Fin con Rua Vêneto,,-29.216437936764,-51.346672262742,,,0,,America/Sao_Paulo,,,0
+2435047,,,Parque Cinquentenario,,-29.208709018917,-51.351429427584,,,0,,America/Sao_Paulo,,,0
+2435093,,,Rua Vittorio Dal Monte com Rua Jose Hilgert,,-29.220954090492,-51.360316167981,,,0,,America/Sao_Paulo,,,0
+2435094,,,Rua Vitorio Dal Monte com rua Carlos Beltrami,,-29.219401019981,-51.359817334974,,,0,,America/Sao_Paulo,,,0
+2435095,,,Rua Vitorio Dal Monte com Rua Joao Farinon,,-29.21828612611,-51.359374723514,,,0,,America/Sao_Paulo,,,0
+2435096,,,Rua Luiz Sperafico depois de Rua Vicentina,,-29.216161918111,-51.355945598946,,,0,,America/Sao_Paulo,,,0
+2435097,,,Rua 13 de Maio com Rua Armando Antonello,,-29.224216708861,-51.354346511848,,,0,,America/Sao_Paulo,,,0
+2435098,,,Rua Pedro Troes entre Rua Hilário Hilgert e Rua Catuípe,,-29.228042952612,-51.365149072297,,,0,,America/Sao_Paulo,,,0
+2435222,,,Rua Independência com Rua Ludovico Merlin,,-29.223048486172,-51.362210693156,,,0,,America/Sao_Paulo,,,0
+2435223,,,Rua Paim Filho esquina com Rua 7 de Setembro,,-29.231364823495,-51.355518421122,,,0,,America/Sao_Paulo,,,0
+2435224,,,Rua Colorado com Rua Josué A. Minella,,-29.20468130559,-51.359658241484,,,0,,America/Sao_Paulo,,,0
+2435225,,,Rua Colorado com Rua São João Calábria,,-29.202214016523,-51.359685712714,,,0,,America/Sao_Paulo,,,0
+2435226,,,Rua Firmino Dalzochio com Rua Pedro Roberto Perger,,-29.201473969675,-51.354634164338,,,0,,America/Sao_Paulo,,,0
+2435230,,,Avenida Paulo Brolio com Rua José Hilgert,,-29.223442661505,-51.350440425139,,,0,,America/Sao_Paulo,,,0
+2435231,,,Avenida Paulo Broilo com Rua Maria Mocelini,,-29.220059043323,-51.34941763186,,,0,,America/Sao_Paulo,,,0
+2435232,,,Rua Monsenhor Thiago Bombardelli antes de Rua Prefeito Schneider,,-29.218124420398,-51.349269519623,,,0,,America/Sao_Paulo,,,0
+2435233,,,Rua Ranieri Petrin (Escola José Fanton),,-29.237140050385,-51.339096526271,,,0,,America/Sao_Paulo,,,0
+2435234,,,Rua Raineri Petrini em frente a entrada da Rua Piratini,,-29.237882978676,-51.341944943155,,,0,,America/Sao_Paulo,,,0
+2435235,,,Rua Evandro Casagrande com Rua Achylles F. Bonfanti,,-29.241384900891,-51.353052247328,,,0,,America/Sao_Paulo,,,0
+2435236,,,Rua Tiradentes com Rua Da República,,-29.227420335564,-51.348879203592,,,0,,America/Sao_Paulo,,,0
+2435237,,,Rua Pinheiro Machado com Rua Coronel Pena De Moraes,,-29.228738094625,-51.347321182941,,,0,,America/Sao_Paulo,,,0
+2435238,,,Rua Achylles F. Bonfanti com Rua Delmo Kreber,,-29.2418233956,-51.348237921626,,,0,,America/Sao_Paulo,,,0
+2435239,,,Rua Dalcy Ferrari De Andrade com Rua Pasqual Paraboni,,-29.243454126618,-51.351119193191,,,0,,America/Sao_Paulo,,,0
+2436142,,,Rua Pasqual Paraboni com Rua Antonio Grendene,,-29.240377006197,-51.350722928874,,,0,,America/Sao_Paulo,,,0
+2436487,,,Rua Dalcy Ferrari De Andrade com Rua Santiago,,-29.24321541383,-51.354332504519,,,0,,America/Sao_Paulo,,,0
+2436488,,,Rua Santiago com Rua Wilson Tartarotti,,-29.242570187733,-51.354377808313,,,0,,America/Sao_Paulo,,,0
+2436489,,,Rua Achylles F. Bonfanti com Rua Seberi,,-29.241661872016,-51.352229626341,,,0,,America/Sao_Paulo,,,0
+2436490,,,Rua Seberi com Rua Jacomina Veronese,,-29.241144323234,-51.351742367245,,,0,,America/Sao_Paulo,,,0
+2436491,,,Rua Antônio Sachet com Rua Pasquale Paraboni,,-29.240027028735,-51.350406154108,,,0,,America/Sao_Paulo,,,0
+2436492,,,Rua Carlos Alberto Rovatti com Rua Lino Zanonatto,,-29.239612038825,-51.349275285098,,,0,,America/Sao_Paulo,,,0
+2436493,,,Rua Lino Zanonatto com Rua Pedro Antontello,,-29.239652512931,-51.347239897048,,,0,,America/Sao_Paulo,,,0
+2436494,,,Rua da República com Rua Barão do Rio Branco,,-29.228948167086,-51.34232406503,,,0,,America/Sao_Paulo,,,0
+2436495,,,Rua da República com Rua Júlio de Castilhos,,-29.227982446716,-51.345997182102,,,0,,America/Sao_Paulo,,,0
+2436496,,,Rua Rui Barbosa com Rua Independência (Praça),,-29.226981410337,-51.347530230579,,,0,,America/Sao_Paulo,,,0
+2436497,,,Rua Ranieri Petrin com Avenida Pedro Grendene,,-29.235185181578,-51.337714724428,,,0,,America/Sao_Paulo,,,0
+2437314,,,Rua Antonio Grendene com Rua Germano Osmarini,,-29.240821515253,-51.34602872441,,,0,,America/Sao_Paulo,,,0
+2438935,,,Rua Antônio Sachet com Rua Pedro Antonello,,-29.240177122319,-51.346770091754,,,0,,America/Sao_Paulo,,,0
+2438994,,,Rua Pedro Roberto Perger com R. Clemente Ângelo Morone,,-29.201366854588,-51.358588065845,,,0,,America/Sao_Paulo,,,0
+2438995,,,Rua Pedro Roberto Perger com Rua Firmino Dalzochio,,-29.20137470994,-51.356808659253,,,0,,America/Sao_Paulo,,,0
+2438996,,,Rua São Vicente com Rua Emílio Tisatto,,-29.205707433824,-51.348238909266,,,0,,America/Sao_Paulo,,,0
+2438998,,,Rua Cachoeirinha com Rua Odilon Pratti,,-29.211351858456,-51.344565006991,,,0,,America/Sao_Paulo,,,0
+2438999,,,Rua Veranópolis com Rua Monoel Pasqual,,-29.22410190877,-51.322412868795,,,0,,America/Sao_Paulo,,,0
+2439000,,,Rua Veranópolis com Rua Marau,,-29.225010523981,-51.322065032369,,,0,,America/Sao_Paulo,,,0
+2439002,,,Rua São Gerônimo com Rua Camilo Brasileiro,,-29.2305204602298,-51.3370064125733,,,0,,America/Sao_Paulo,,,0
+2439003,,,Rua São Gerônimo despues de Rua Dom Pedro II e Rua Serafim Sperafico,,-29.229412442894,-51.335626473903,,,0,,America/Sao_Paulo,,,0
+2439004,,,Rua Encantado com Rua Ronda Alta,,-29.230473937721,-51.321651399977,,,0,,America/Sao_Paulo,,,0
+2439005,,,Rua Arthur Pedrotini com Rua Canela,,-29.230149615739,-51.320224860072,,,0,,America/Sao_Paulo,,,0
+2439006,,,Rua  Arthur Pedrotini com Rua Fioravante,,-29.229011310602,-51.320224977847,,,0,,America/Sao_Paulo,,,0
+2439007,,,Rua Veranopolis com Rua Montenegro,,-29.225783230484,-51.321141728355,,,0,,America/Sao_Paulo,,,0
+2439008,,,Avenida Veneza com Rua Ernesto Fetter,,-29.219062974214,-51.333532555859,,,0,,America/Sao_Paulo,,,0
+2439009,,,Rua Pedro Roberto Perger com Rua Firmino Dalzochio,,-29.201248860306,-51.356507495573,,,0,,America/Sao_Paulo,,,0
+2439010,,,Rua Pedro Roberto Perger com R. Clemente Ângelo Morone,,-29.201282184434,-51.358592376826,,,0,,America/Sao_Paulo,,,0
+2439011,,,Rua Carlos Fetter com Rua 14 de Julho,,-29.224484504515,-51.350015872263,,,0,,America/Sao_Paulo,,,0
+2439019,,,Rua Aurora Argentina Dalla Riva Tartarotti entre a rua Moacir J Bassoto  e Josué Valandro,,-29.248705189177,-51.361356897693,,,0,,America/Sao_Paulo,,,0
+2439020,,,Rua Antônio Sachet com Rua Pasquale Paraboni,,-29.239905038933,-51.350394969822,,,0,,America/Sao_Paulo,,,0
+2439021,,,Rua 13 de Maio com Rua Marechal Floriano Peixoto,,-29.226806111584,-51.343476543831,,,0,,America/Sao_Paulo,,,0
+2439022,,,Rua 13 de Maio com Rua Júlio de Castilhos,,-29.226452455448,-51.344776939118,,,0,,America/Sao_Paulo,,,0
+2439101,,,Rua Manoel Pasqual com Rua Bom Jesus,,-29.223934245688,-51.320708319925,,,0,,America/Sao_Paulo,,,0
+2439102,,,Rua Porto Alegre com Rua Raymundo Arrosi,,-29.231827435101,-51.324528294777,,,0,,America/Sao_Paulo,,,0
+2439103,,,Rua Francisco Barreta com Rua Alberto Matte,,-29.234320825877,-51.325808161596,,,0,,America/Sao_Paulo,,,0
+2439104,,,Avenida Pedro Grendene (Medi Tricot),,-29.235386487386,-51.335570627729,,,0,,America/Sao_Paulo,,,0
+2439105,,,Rua Alberto Matte com Rua Dante Pedro Maliverno,,-29.238332303457,-51.325641011398,,,0,,America/Sao_Paulo,,,0
+2439106,,,Rua Joao Fabro Filho com Rua Manoel Pasqual,,-29.223852332056,-51.314058715203,,,0,,America/Sao_Paulo,,,0
+2440007,,,Rua Manoel Pasqual com Rua Prefeito Joao Grande,,-29.224067122929,-51.31302439127,,,0,,America/Sao_Paulo,,,0
+2440008,,,Rua Pinheiro Machado com Rua José Dalla Riva,,-29.224382421114,-51.345888207671,,,0,,America/Sao_Paulo,,,0
+2440009,,,Rua Pedro Pasqual Filho com Rua Santo Ângelo,,-29.21620970241,-51.317555160015,,,0,,America/Sao_Paulo,,,0
+2440010,,,Rua Guerino Tartarotti com Serapião Prado,,-29.216214684602,-51.322714207662,,,0,,America/Sao_Paulo,,,0
+2440017,,,Rua Armiro Antônio Palavro com Rua Alexandre Sachet,,-29.213895542647,-51.339904177339,,,0,,America/Sao_Paulo,,,0
+2440018,,,Rua Toscana com Rua Pedro Padovan,,-29.2177213058,-51.342194284203,,,0,,America/Sao_Paulo,,,0
+2441015,,,Rua Gerônimo Francischini com a Rua Francisco Fernando de Matos,,-29.251264080874,-51.352235287602,,,0,,America/Sao_Paulo,,,0
+2441016,,,Rua Lucindo Loddi com Rua Rialdo Danilo Damin,,-29.245670741582,-51.357659923351,,,0,,America/Sao_Paulo,,,0
+2441017,,,Rua Silveira Martins com Rua Dom Pedro II,,-29.23372506927,-51.336670322558,,,0,,America/Sao_Paulo,,,0
+2441018,,,Rua Giovani Zanonatto com Rua Ãngelo Fae,,-29.214638701348,-51.339618832631,,,0,,America/Sao_Paulo,,,0
+2441019,,,Rua Padova com Rua Rovigo,,-29.21765843852,-51.327460812207,,,0,,America/Sao_Paulo,,,0
+2441020,,,Rua Toscana com Rua Odilon Pratti,,-29.217665109665,-51.343867022444,,,0,,America/Sao_Paulo,,,0
+2441021,,,Rua Pedro Antonello com Rua Augusto Crippa,,-29.242688347782,-51.347383963409,,,0,,America/Sao_Paulo,,,0
+2441022,,,Rua Gerônimo Francischini com a Rua Eliza V. Felter,,-29.251501364666,-51.349828522302,,,0,,America/Sao_Paulo,,,0
+2441023,,,ERS 122 com Rua Francisco,,-29.233621903166,-51.33145143317,,,0,,America/Sao_Paulo,,,0
+2441024,,,Rua Augusto Crippa com Rua Pedro Antonello,,-29.242577970131,-51.347612502823,,,0,,America/Sao_Paulo,,,0
+2441025,,,Rua Bortolo Grendene com Rua Primo Postal,,-29.233077593462,-51.347788708549,,,0,,America/Sao_Paulo,,,0
+2448618,,,Rota Do Sol Euclides Triches com Rua Rovigo,,-29.219185059094,-51.327241905872,,,0,,America/Sao_Paulo,,,0
+2456325,,,Rua Antão de Jesus Batista com Rua Marechal Deodoro da Fonseca,,-29.2183359084144,-51.3400469821806,,,0,,America/Sao_Paulo,,,0
+2484510,,,Rua Ernesto Fetter com Avenida Veneza,,-29.2190044796317,-51.3336699321548,,,0,,America/Sao_Paulo,,,0
+2484511,,,Avenida Veneza com Rua José Achiles Colombo,,-29.219967672204,-51.3387348367964,,,0,,America/Sao_Paulo,,,0
+2484512,,,Parada em frente á Máquinas Sazi,,-29.2149017650532,-51.3687013358046,,,0,,America/Sao_Paulo,,,0
+2484513,,,Rota do Sol Euclides Triches oeste de Posto Sander,,-29.2146440666507,-51.376888423861,,,0,,America/Sao_Paulo,,,0
+2484514,,,Rota do Sol Euclides Triches a Bigfer,,-29.2107622154889,-51.3879109496023,,,0,,America/Sao_Paulo,,,0
+2484515,,,Rota Do Sol Euclides Triches oeste de Bigfer,,-29.2100154442471,-51.391442259173,,,0,,America/Sao_Paulo,,,0
+2484517,,,Rua Santiago com Rua Itacir Raimundo Zatti,,-29.2439469262403,-51.3546983308448,,,0,,America/Sao_Paulo,,,0
+2484518,,,Entre Tecnova e Rua Ranieri Petrin,,-29.2519210473738,-51.3471384677207,,,0,,America/Sao_Paulo,,,0
+2484519,,,Rua Ranieri Petrin com RS-122,,-29.2506917699932,-51.3452089562178,,,0,,America/Sao_Paulo,,,0
+2484520,,,RS-122 a Banrisul,,-29.256881,-51.341064,,,0,,America/Sao_Paulo,,,0
+2484521,,,RS-122 sul do Banrisul,,-29.259034,-51.339839,,,0,,America/Sao_Paulo,,,0
+2484522,,,RS-122 norte de Posto Vila nova,,-29.26179,-51.340033,,,0,,America/Sao_Paulo,,,0
+2484523,,,RS-122 a Forelli Tricot,,-29.269472,-51.340445,,,0,,America/Sao_Paulo,,,0
+2484524,,,RS-122 a Bistro Milano,,-29.274376,-51.339124,,,0,,America/Sao_Paulo,,,0
+2484525,,,RS-122 com Rua Ismael Piazza,,-29.2751020338134,-51.3381300737673,,,0,,America/Sao_Paulo,,,0
+2484526,,,RS-122 a Vasco da Gama Futebol Clube,,-29.2729328817141,-51.3396864642693,,,0,,America/Sao_Paulo,,,0
+2484527,,,RS-122 a Forelli Tricot,,-29.2694808490319,-51.3402380600239,,,0,,America/Sao_Paulo,,,0
+2484528,,,RS-122 a Posto Vila nova,,-29.2630653472504,-51.3398320257671,,,0,,America/Sao_Paulo,,,0
+2484529,,,RS-122 a Banrisul,,-29.2572990575663,-51.340297287668,,,0,,America/Sao_Paulo,,,0
+2484530,,,RS-122,,-29.2542768251528,-51.3421250451399,,,0,,America/Sao_Paulo,,,0
+2484531,,,RS-122 com Rua Ranieri Petrin,,-29.2504510513415,-51.3441076407134,,,0,,America/Sao_Paulo,,,0
+2484532,,,RS-122 a RM,,-29.2485502115103,-51.3412559486125,,,0,,America/Sao_Paulo,,,0
+2501515,,,Rua Barão do Rio Branco com Rua Giácomo Brutomezzo,,-29.2238847711957,-51.3404612835459,,,0,,America/Sao_Paulo,,,0
+2501516,,,Rua Barão do Rio Branco com Rua 14 de Julho,,-29.2266425527452,-51.3413382241687,,,0,,America/Sao_Paulo,,,0
+2505986,,,Rua Delmo Kreber com Rua Lino Zanonatto,,-29.2397292042531,-51.3483035208057,,,0,,America/Sao_Paulo,,,0
+2505997,,,Rua Julio de Castilhos com Avenida Santa Rita,,-29.2237902274491,-51.3454605095561,,,0,,America/Sao_Paulo,,,0
+2505998,,,Parada Rodovia Dos Romeiros,,-29.1884776857734,-51.3403292120411,,,0,,America/Sao_Paulo,,,0
+2505999,,,Rodovia Dos Romeiros (Unimed Nordeste),,-29.2010396747102,-51.3471506224297,,,0,,America/Sao_Paulo,,,0
+2506000,,,Rua Indepência com Rua Marechal Floriano Peixoto,,-29.2276709145729,-51.3441148622911,,,0,,America/Sao_Paulo,,,0
+2506021,,,Rua Luigi Sperafico com Rua Albino Joao Fetter,,-29.2127505380164,-51.354426451669,,,0,,America/Sao_Paulo,,,0
+2506022,,,Rua Garibbali com Rua Paulo Tartarotti,,-29.2102574157646,-51.3622577561054,,,0,,America/Sao_Paulo,,,0
+2506023,,,Rua São João Calábria com Rodovia Dos Romeiros,,-29.2030685122331,-51.3536759970474,,,0,,America/Sao_Paulo,,,0
+2506024,,,Rua Marechal Deodoro da Fonseca com Rua Assis Brasil,,-29.219234672019,-51.3402110820251,,,0,,America/Sao_Paulo,,,0
+2506025,,,Rua Theodoro Portolan com Rua Maximiliano Drigon,,-29.2366536331213,-51.3608451446893,,,0,,America/Sao_Paulo,,,0
+2506026,,,Rua José Rizzo com Rua Giovani Chies,,-29.2351425004416,-51.3596850902086,,,0,,America/Sao_Paulo,,,0
+2506027,,,Rua José Rizzo com Rua Ary Zanonatto,,-29.2333744122068,-51.3597028536363,,,0,,America/Sao_Paulo,,,0
+2506029,,,Rua Santo Augusto com Rua Manoel Pasqual,,-29.2242120218881,-51.3168516130543,,,0,,America/Sao_Paulo,,,0
+2506048,,,Estrada Para Garibaldi ,,-29.2364550347444,-51.4034892075926,,,0,,America/Sao_Paulo,,,0
+2506049,,,Estrada para Garibaldi ou Estrada Morro do Macaco VRS-313,,-29.2399915384954,-51.4123814049089,,,0,,America/Sao_Paulo,,,0
+2506050,,,Vila Rica,,-29.237575,-51.479699,,,0,,America/Sao_Paulo,,,0
+2506065,,,Avenida Paulo Brolio com Rua Coronel Pena de Moraes,,-29.2272947039914,-51.3517616465804,,,0,,America/Sao_Paulo,,,0
+2506077,,,Rua Serapião Floriano Prado próximo Soprano,,-29.2161539676278,-51.32095525466,,,0,,America/Sao_Paulo,,,0
+2506138,,,Rua Joco Roso com Rua Francisco Barreta,,-29.2346179349309,-51.328687231237,,,0,,America/Sao_Paulo,,,0
+2506140,,,Rua Joco Roso com Rua Florentino Perotoni,,-29.2378130896949,-51.3288289870479,,,0,,America/Sao_Paulo,,,0
+2506142,,,Rua Alberto Matte com Rua Florentino Perotoni,,-29.2374583880382,-51.3254216751936,,,0,,America/Sao_Paulo,,,0
+2506194,,,Rua Lino Zanonatto com Rua Pedro Antontello,,-29.2395561413835,-51.347457518989,,,0,,America/Sao_Paulo,,,0
+2506195,,,Rota Do Sol Euclides Triches com Rua Luigi Sperafico,,-29.214174946912,-51.3541836498149,,,0,,America/Sao_Paulo,,,0
+2506196,,,Roto Do Sol Euclides Triches a Rodoil,,-29.2135155457243,-51.3843178491785,,,0,,America/Sao_Paulo,,,0
+2506197,,,Roto Do Sol Euclides Triches a Rodoil,,-29.213355680597,-51.3849626249589,,,0,,America/Sao_Paulo,,,0
+2506208,,,Avenida Paulo Broilo com Rua 14 de Julho,,-29.2242680998648,-51.3506718638392,,,0,,America/Sao_Paulo,,,0
+2506209,,,Avenida Pedro Grendene com Rua Ranieri Petrin,,-29.2349092878707,-51.3376024413395,,,0,,America/Sao_Paulo,,,0
+2506210,,,Rua General Osório com Rua Silveira Martins,,-29.2334431085577,-51.3375595125115,,,0,,America/Sao_Paulo,,,0
+2506211,,,Rua Veneto depois de Rua Craudino Fontanella,,-29.2099674504861,-51.342817395762,,,0,,America/Sao_Paulo,,,0
+2506212,,,Parada Rua Veneto com a Arthur Weirich Sobrinho,,-29.2081578028116,-51.3414336353931,,,0,,America/Sao_Paulo,,,0
+2506213,,,Parada Rua Veneto,,-29.2033374160394,-51.3368250226272,,,0,,America/Sao_Paulo,,,0
+2506214,,,Parada Rua Veneto,,-29.1991633762048,-51.333714782114,,,0,,America/Sao_Paulo,,,0
+2506215,,,Parada Rua Veneto,,-29.1932264869261,-51.3280888261928,,,0,,America/Sao_Paulo,,,0
+2506216,,,Parada Rua Veneto,,-29.1938870623613,-51.3293490581609,,,0,,America/Sao_Paulo,,,0
+2506217,,,Rua Veneto,,-29.1892283951988,-51.321277518419,,,0,,America/Sao_Paulo,,,0
+2506218,,,Avenida Prefeito Arno Domingos Busetti com Rua São Vicente,,-29.2096215313352,-51.348332845929,,,0,,America/Sao_Paulo,,,0
+2506219,,,Tramontina,,-29.2218972864759,-51.3292191592093,,,0,,America/Sao_Paulo,,,0
+2506220,,,Rua Dante Pedro Maliverno com Rua Modesto Picoli,,-29.2385221568459,-51.3278116163473,,,0,,America/Sao_Paulo,,,0
+2506221,,,Rua Joco Roso com Rua Florentino Perotoni,,-29.237849074986,-51.3286737337125,,,0,,America/Sao_Paulo,,,0
+2506222,,,Rua Camilo Brasileiro com Rio Grande ,,-29.231227126081,-51.3341185592347,,,0,,America/Sao_Paulo,,,0
+2506223,,,Rua Dante Pedro Maliverno com Rua Modesto Picoli,,-29.238633192899,-51.3281192210709,,,0,,America/Sao_Paulo,,,0
+2506224,,,Rua Raimundo Rossi (entre a Rua Ambrosio Crippa e a Rua Alberto Matte),,-29.2365820642483,-51.3254253563136,,,0,,America/Sao_Paulo,,,0
+2506225,,,Rua Raymundo Arrosi com Rua Francisco Barreta,,-29.2345295534544,-51.3245220453315,,,0,,America/Sao_Paulo,,,0
+2506226,,,Rua Pedro Arosi com Rua Raymundo Arrosi,,-29.2334081167967,-51.3251763232102,,,0,,America/Sao_Paulo,,,0
+2506227,,,Rua Raymundo Arrosi com Rua Pedro Arosi,,-29.2332059217495,-51.3244366046567,,,0,,America/Sao_Paulo,,,0
+2506228,,,Rua Luiz Busetti com Rua 13 de Maio,,-29.2245980359866,-51.353118814525,,,0,,America/Sao_Paulo,,,0
+2506230,,,Rodovia dos Romeiros com Rotado Sol Euclides Triches,,-29.2150362658088,-51.3509730358146,,,0,,America/Sao_Paulo,,,0
+2506252,,,Avenida Monsenhor Albino Agazzi depois de Rua Júlio Bérgamo,,-29.2772092758821,-51.3365850948469,,,0,,America/Sao_Paulo,,,0
+2506253,,,Avenida Monsenhor Albino Agazzi,,-29.2785124385462,-51.3362238329077,,,0,,America/Sao_Paulo,,,0
+2506254,,,Avenida Monsenhor Albino Agazzi com Santo Antonio,,-29.2821182015242,-51.3335793967881,,,0,,America/Sao_Paulo,,,0
+2506255,,,Avenida Monsenhor Albino Agazzi antes Santo Antonio,,-29.2822791929274,-51.3307091186884,,,0,,America/Sao_Paulo,,,0
+2506256,,,Avenida Monsenhor Albino Agazzi depois de Rua Júlio Bérgamo,,-29.2771771786893,-51.3363989425616,,,0,,America/Sao_Paulo,,,0
+2506257,,,Avenida Monsenhor Albino Agazzi,,-29.2784524061274,-51.3360586540319,,,0,,America/Sao_Paulo,,,0
+2506258,,,Avenida Monsenhor Albino Agazzi,,-29.2834883463754,-51.3294863457947,,,0,,America/Sao_Paulo,,,0
+2506259,,,Avenida Monsenhor Albino Agazzi a Estrada Serraria,,-29.2883816324013,-51.330836521314,,,0,,America/Sao_Paulo,,,0
+2506260,,,Avenida Monsenhor Albino Agazzi a Estrada Serraria,,-29.288154139994,-51.3305654215415,,,0,,America/Sao_Paulo,,,0
+2506261,,,Estrada Júlio De Castilhos,,-29.3004156662522,-51.327929029953,,,0,,America/Sao_Paulo,,,0
+2506262,,,Estrada Júlio De Castilhos,,-29.3004800119691,-51.3276708957325,,,0,,America/Sao_Paulo,,,0
+2506263,,,Estrada Júlio De Castilhos,,-29.3043844047645,-51.3240876911539,,,0,,America/Sao_Paulo,,,0
+2506264,,,Estrada Júlio De Castilhos,,-29.3041997166417,-51.3239488321166,,,0,,America/Sao_Paulo,,,0
+2506265,,,Estrada Júlio De Castilhos,,-29.304899639543,-51.3208703135105,,,0,,America/Sao_Paulo,,,0
+2506266,,,Estrada Júlio De Castilhos,,-29.3047533535842,-51.3210123627171,,,0,,America/Sao_Paulo,,,0
+2506267,,,Estrada Júlio De Castilhos,,-29.3104056547791,-51.3112936370109,,,0,,America/Sao_Paulo,,,0
+2506268,,,Estrada Júlio De Castilhos,,-29.3102755688652,-51.3112849505304,,,0,,America/Sao_Paulo,,,0
+2506269,,,Estrada Júlio De Castilhos (Serraria Marques),,-29.3125060786599,-51.3070393170772,,,0,,America/Sao_Paulo,,,0
+2506270,,,Estrada Júlio De Castilhos (Serraria Marques),,-29.31242807012,-51.3068343054844,,,0,,America/Sao_Paulo,,,0
+2506271,,,Estrada Júlio De Castilhos (Sociedade Esporte Clube),,-29.3144987271942,-51.3082164175798,,,0,,America/Sao_Paulo,,,0
+2506272,,,Estrada Júlio De Castilhos (Sociedade Esporte Clube),,-29.3144714106326,-51.3078738703086,,,0,,America/Sao_Paulo,,,0
+2506273,,,Estrada Júlio De Castilhos,,-29.3208829644924,-51.3061972321247,,,0,,America/Sao_Paulo,,,0
+2506274,,,Estrada Júlio De Castilhos,,-29.32074707137,-51.3061155139827,,,0,,America/Sao_Paulo,,,0
+2506275,,,Estrada Júlio De Castilhos com Estrada Caravaginho ,,-29.3234271241694,-51.3050647469745,,,0,,America/Sao_Paulo,,,0
+2506276,,,Estrada Júlio De Castilhos com Estrada Caravaginho ,,-29.323491496664,-51.3047707624314,,,0,,America/Sao_Paulo,,,0
+2506277,,, Estrada Júlio De Castilhos,,-29.3269052210507,-51.3043948453792,,,0,,America/Sao_Paulo,,,0
+2506278,,,Estrada Júlio De Castilhos,,-29.3279272435017,-51.3040343213114,,,0,,America/Sao_Paulo,,,0
+2506296,,,São Pedro de Feliz,,-29.335432488294,-51.301750293539,,,0,,America/Sao_Paulo,,,0
+2506297,,,Rua Ranieri Petrin com RS-122,,-29.250584953355,-51.3451009981228,,,0,,America/Sao_Paulo,,,0
+2506298,,,Entre Tecnova e Rua Ranieri Petrin,,-29.2518565571253,-51.3472046031187,,,0,,America/Sao_Paulo,,,0
+2506299,,,Rua Gerônimo Francischini com a Rua Eliza V. Felte,,-29.2517978768118,-51.3490176219849,,,0,,America/Sao_Paulo,,,0
+2506300,,,Rua Antônio F. Pedó,,-29.2475962761354,-51.358545952017,,,0,,America/Sao_Paulo,,,0
+2506306,,,Rua Gerônimo Francischini entre a Rua Leopoldo dos Santos e Zilá Luz d'Ávila,,-29.2510122289945,-51.3539607489884,,,0,,America/Sao_Paulo,,,0
+2506307,,,Rua Nataly Valentini com Avenida Pedro Grendene,,-29.2311133782524,-51.3419819235482,,,0,,America/Sao_Paulo,,,0
+2506308,,,Rua Baldizar Maggioni com Rua Luiz Onzi,,-29.2400348799572,-51.3336007208966,,,0,,America/Sao_Paulo,,,0
+2506309,,,Rua José C. Mantovani com Rua Baldizar Maggioni,,-29.2406134151538,-51.3327204617027,,,0,,America/Sao_Paulo,,,0
+2506310,,,Rua Pedro Dante Maliverno com Rua José C. Mantovani,,-29.238509760418,-51.332872470716,,,0,,America/Sao_Paulo,,,0
+2506311,,,Rua Dante Pedro Maliverno com Rua Alberto Matte,,-29.2387285266082,-51.3256981936845,,,0,,America/Sao_Paulo,,,0
+2506312,,,Rua Veranopolis com Rua Joao Fabro Filho,,-29.2267182326593,-51.3204106458631,,,0,,America/Sao_Paulo,,,0
+2506313,,,Rua Sao Leopoldo com Rua Montenegro,,-29.2258919818147,-51.3219608085053,,,0,,America/Sao_Paulo,,,0
+2506314,,,Rua Bage depois Rua Guapore,,-29.2249244457608,-51.3240257715482,,,0,,America/Sao_Paulo,,,0
+2506315,,,Avenida das Industrios com Rua Bage,,-29.224811144455,-51.3248700385749,,,0,,America/Sao_Paulo,,,0
+2506318,,,Rua Veneto com Rua Luiz Fagherazzi,,-29.2143248188485,-51.3451932050835,,,0,,America/Sao_Paulo,,,0
+2506319,,,Rua Veneto com TV Barra de Santa Rita,,-29.2107660622318,-51.344051080341,,,0,,America/Sao_Paulo,,,0
+2506320,,,Rua Sao Gabriel com Rua Santa Maria,,-29.2227409262291,-51.3153083683446,,,0,,America/Sao_Paulo,,,0
+2506321,,,Rota Do Sol Euclides Triches com Rua José Pegoraro,,-29.2144917799461,-51.3159219377125,,,0,,America/Sao_Paulo,,,0
+2506322,,,Rua Independência com Rua Vicente Zamboni,,-29.228914816788,-51.3393078970421,,,0,,America/Sao_Paulo,,,0
+2506323,,,Rua Serafim Sperafico com Rua Planalto,,-29.2305325196669,-51.33337650559,,,0,,America/Sao_Paulo,,,0
+2506324,,,Avenida Das Indústrias com Rua Ronda Alta,,-29.2311618169554,-51.3221105170998,,,0,,America/Sao_Paulo,,,0
+2506325,,,Rua Veranópolis com Rua Marau,,-29.2249066492068,-51.3219657075509,,,0,,America/Sao_Paulo,,,0
+2506326,,,Rua Domenico fin com Rua Armiro Antônio Palavro,,-29.2159870558964,-51.3397182530515,,,0,,America/Sao_Paulo,,,0
+2506327,,,Rua Cachoeirinha com Rua Odilon Pratti,,-29.2112467134433,-51.3446302789035,,,0,,America/Sao_Paulo,,,0
+2506328,,,Rua Veneto com Rua Alexandre Sachet,,-29.2138304910274,-51.3453234811166,,,0,,America/Sao_Paulo,,,0
+2506329,,,Rua Luiz Fagherazzi com antes Rua São Vicente,,-29.2143234652392,-51.3472676963151,,,0,,America/Sao_Paulo,,,0
+2506330,,,Rua Pedro Marcheto com Rua Garibaldi,,-29.2100816048268,-51.361496377028,,,0,,America/Sao_Paulo,,,0
+2506331,,,Rua Santa Catarina com Rua Colorado,,-29.2118496875084,-51.3598027810667,,,0,,America/Sao_Paulo,,,0
+2506332,,,Rua Santa Catarina com Rua Constantina,,-29.2118240716236,-51.3578274038094,,,0,,America/Sao_Paulo,,,0
+2506333,,,Rua Santa Catarina com Rua Luigi Sperafico,,-29.2118352398923,-51.3548234239963,,,0,,America/Sao_Paulo,,,0
+2506334,,,Rua Arcângelo Chiele com Rua Carlos Fetter,,-29.2226948228859,-51.3495391297698,,,0,,America/Sao_Paulo,,,0

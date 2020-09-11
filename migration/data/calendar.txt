@@ -1,0 +1,7 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+c_5988_b_6309_d_79,Calendario todo o ano,1,1,1,1,0,0,1,20171201,20191201
+c_5988_b_6309_d_64,Calendario todo o ano (Sunday only),0,0,0,0,0,0,1,20171201,20191201
+c_5988_b_6309_d_63,Calendario todo o ano (Monday-Saturday),1,1,1,1,1,1,0,20171201,20191201
+c_5988_b_6309_d_32,Calendario todo o ano (Saturday only),0,0,0,0,0,1,0,20171201,20191201
+c_5988_b_6309_d_31,Calendario todo o ano (Monday-Friday),1,1,1,1,1,0,0,20171201,20191201
+c_5988_b_6309_d_127,Calendario todo o ano (All days of week),1,1,1,1,1,1,1,20171201,20191201

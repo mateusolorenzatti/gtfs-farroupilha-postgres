@@ -1,0 +1,165 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted
+787,9615,141,Praça x São João,,3,,bfbfbf,000000,1,,0
+787,9683,150,São José x 1º de Maio x Centro,,3,,cd0000,ffffff,3,,0
+787,9545,86,Ipanema x Medianeira x Praça,,3,,c1cdc1,000000,4,,0
+787,9509,144,Praça x Vicentina,,3,,474747,ffffff,,,0
+787,9510,158,Vicentina x Praça,,3,,7cfc00,000000,,,0
+787,9511,101,Praça x 1º de Maio,,3,,e0eeee,000000,,,0
+787,9512,6,1º de Maio x Praça,,3,,2e2e2e,ffffff,,,0
+787,9513,143,Praça x São José x São Luiz,,3,,bbffff,000000,,,0
+787,9514,154,São José x São Luiz x Centro,,3,,4f4f4f,ffffff,,,0
+787,9515,88,Linha Boemios x Farroupilha,,3,,2e8b57,ffffff,,,0
+787,9516,75,Farroupilha x Linha Boemios,,3,,8f8f8f,ffffff,,,0
+787,9517,89,Linha Machadinho x Nova Milano,,3,,fff5ee,000000,,,0
+787,9518,99,Nova Milano x Machadinho,,3,,8b3a62,ffffff,,,0
+787,9519,163,Vitória x 1º de Maio x Praça,,3,,eee9e9,000000,,,0
+787,9521,114,Praça x Belvedere x Industrial x Praça,,3,,cdc0b0,000000,,,0
+787,9522,105,Praça x 1º de Maio x Praça,,3,,ffaeb9,000000,,,0
+787,9523,128,Praça x Industrial x Belvedere x Praça,,3,,cdaa7d,000000,,,0
+787,9524,112,Praça x Belvedere x Balneário x Praça,,3,,9ac0cd,000000,,,0
+787,9525,103,Praça x 1º de Maio x Monte Verde,,3,,ff7256,000000,,,0
+787,9526,97,Monte Verde x 1º de Maio x Praça,,3,,8b7d7b,ffffff,,,0
+787,9527,126,Praça x Industrial,,3,,27408b,ffffff,,,0
+787,9528,66,Estudantes: Pio X x Fanton x América,,3,,b0c4de,000000,,,0
+787,9529,73,Farroupilha x Caravaggio,,3,,b3ee3a,000000,,,0
+787,9530,27,Caravaggio x Belvedere x Farroupilha,,3,,ee5c42,000000,,,0
+787,9531,108,Praça x Alvorada,,3,,b23aee,000000,,,0
+787,9532,11,Alvorada x Centro,,3,,e066ff,000000,,,0
+787,9534,74,Farroupilha x Caravaggio x Balneário x Praça,,3,,ee7600,000000,,,0
+787,9535,77,Imigrante x São José x Praça,,3,,ff6a6a,000000,,,0
+787,9536,102,Praça x 1º de Maio x Industrial,,3,,8b8b83,ffffff,,,0
+787,9537,62,Estudantes: Industrial x Fanton x Pio X,,3,,8b0000,ffffff,,,0
+787,9538,161,Vitória x 1º de Maio x Centro,,3,,cd00cd,000000,,,0
+787,9539,145,Praça x Vicentina x São José,,3,,c9c9c9,000000,,,0
+787,9540,152,São José x Centro,,3,,eee9bf,000000,,,0
+787,9541,125,Praça x Imigrante x São José,,3,,cd69c9,000000,,,0
+787,9542,134,Praça x Medianeira,,3,,b2dfee,000000,,,0
+787,9543,93,Medianeira x Praça,,3,,6a5acd,ffffff,,,0
+787,9544,132,Praça x Ipanema x Medianeira,,3,,32cd32,000000,,,0
+787,9546,142,Praça x São José,,3,,666666,ffffff,,,0
+787,9547,153,São José x Praça,,3,,ffe7ba,000000,,,0
+787,9548,146,Praça x Vitória,,3,,458b00,000000,,,0
+787,9549,164,Vitória x Praça,,3,,ff3030,000000,,,0
+787,9550,1,1º de Maio x Centro x Biamar,,3,,1d31f7,ffffff,,,0
+787,9551,60,Estudantes: Cruzeiro x Presidente Dutra e São Roque,,3,,9932cc,ffffff,,,0
+787,9552,117,Praça x Centenário x industrial,,3,,ffb5c5,000000,,,0
+787,9553,94,Monte Pasqual x Industrial x Centro,,3,,d02090,000000,,,0
+787,9554,81,Industrial x Praça,,3,,1f1f1f,ffffff,,,0
+787,9556,52,Cinqüentenário x Praça,,3,,00bfff,000000,,,0
+787,9559,118,Praça x Cinqüentenário,,3,,cdc9a5,000000,,,0
+787,9560,138,Praça x Monte Verde,,3,,f7f7f7,000000,,,0
+787,9561,98,Monte Verde x Praça,,3,,ffd700,000000,,,0
+787,9562,68,Estudantes: Praça x Cruzeiro x Medianeira,,3,,eead0e,000000,,,0
+787,9563,92,Medianeira x Cruzeiro x Praça,,3,,b0e2ff,000000,,,0
+787,9564,116,Praça x Centenário x Cruzeiro,,3,,bf3eff,000000,,,0
+787,9565,30,Centenário x Cruzeiro x Praça,,3,,bababa,000000,,,0
+787,9566,135,Praça x Medianeira x Cruzeiro,,3,,8b8682,ffffff,,,0
+787,9567,121,Praça x Cruzeiro x Centenário,,3,,ee2c2c,000000,,,0
+787,9568,96,Monte Pasqual x Praça,,3,,7a67ee,ffffff,,,0
+787,9569,13,Alvorada x Praça,,3,,53868b,ffffff,,,0
+787,9570,107,Praça x 1º de Maio x Vitória x Praça,,3,,8b5a00,ffffff,,,0
+787,9571,129,Praça x Industrial x Cinquentenário,,3,,ffffe0,000000,,,0
+787,9572,79,Industrial x Cinquentenário x Praça,,3,,f0f8ff,000000,,,0
+787,9573,123,Praça x IFRS x Cruzeiro,,3,,ee3a8c,000000,,,0
+787,9574,56,Cruzeiro x Praça,,3,,636363,ffffff,,,0
+787,9575,131,Praça x Ipanema,,3,,cdbe70,000000,,,0
+787,9576,84,Ipanema x Centro,,3,,6e7b8b,ffffff,,,0
+787,9577,136,Praça x Monte Pasqual,,3,,ffff00,000000,,,0
+787,9578,124,Praça x Imigrante x São Francisco,,3,,8b3626,ffffff,,,0
+787,9579,148,São Francisco x Imigrante x Praça,,3,,caff70,000000,,,0
+787,9580,137,Praça x Monte Pasqual x Industrial,,3,,aeeeee,000000,,,0
+787,9581,95,Monte Pasqual x Industrial x Praça,,3,,eeb4b4,000000,,,0
+787,9582,113,Praça x Belvedere x Cinqüentenário,,3,,bdb76b,000000,,,0
+787,9583,25,Belvedere x Cinqüentenário x Praça,,3,,000080,ffffff,,,0
+787,9584,109,Praça x América x Industrial,,3,,97ffff,000000,,,0
+787,9585,15,América x Industrial x Praça,,3,,050505,ffffff,,,0
+787,9586,133,Praça x Linha Vicentina,,3,,bcee68,000000,,,0
+787,9587,90,Linha Vicentina x Praça,,3,,eee5de,000000,,,0
+787,9588,12,Alvorada x Ipanema x Praça,,3,,4169e1,ffffff,,,0
+787,9589,120,Praça x Cruzeiro,,3,,5c5c5c,ffffff,,,0
+787,9590,71,Estudantes: São Tiago x Medianeira x Ipanema,,3,,adff2f,000000,,,0
+787,9591,64,Estudantes: Ipanema x São Tiago,,3,,cdb5cd,000000,,,0
+787,9592,58,Estudantes: Centenário x Ipanema,,3,,c2c2c2,000000,,,0
+787,9593,78,Industrial x Centro,,3,,6a5acd,ffffff,,,0
+787,9594,70,Estudantes: São Tiago x Medianeira x América,,3,,eeeee0,000000,,,0
+787,9595,57,Estudantes: América x São Tiago,,3,,f0fff0,000000,,,0
+787,9596,5,1º de Maio x M. Verde x S. Antonio x Rod. x Centro,,3,,5d478b,ffffff,,,0
+787,9597,72,Estudantes: São Tiago x São José,,3,,eed8ae,000000,,,0
+787,9598,157,São Tiago x Belvedere x Praça,,3,,ee6a50,000000,,,0
+787,9599,111,Praça x Belvedere,,3,,878787,ffffff,,,0
+787,9600,26,Belvedere x Praça,,3,,87cefa,000000,,,0
+787,9601,2,1º de Maio x Monte Verde x Praça,,3,,191970,ffffff,,,0
+787,9602,63,Estudantes: Industrial x São tiago,,3,,ff8c69,000000,,,0
+787,9603,67,Estudantes: Pio X x Fanton x Industrial,,3,,68228b,ffffff,,,0
+787,9604,82,Industrial x Praça x 1º de Maio,,3,,ee6aa7,000000,,,0
+787,9605,162,Vitória x 1º de Maio x Industrial x Praça,,3,,cd96cd,000000,,,0
+787,9606,159,Vicentina x São José x Praça,,3,,eeeed1,000000,,,0
+787,9607,69,Estudantes: São Tiago x Industrial,,3,,cdb7b5,000000,,,0
+787,9609,140,Praça x Rodoviária,,3,,8b7355,ffffff,,,0
+787,9610,147,Rodoviária x Praça,,3,,121212,ffffff,,,0
+787,9611,110,Praça x América x Ipanema,,3,,cdc8b1,000000,,,0
+787,9612,19,América x Ipanema x Praça,,3,,dcdcdc,000000,,,0
+787,9614,83,Industrial x Praça x Cinquentenário,,3,,fa8072,000000,,,0
+787,9616,149,São João x Praça,,3,,ff4040,000000,,,0
+787,9617,100,Pio X x Praça x Industrial,,3,,1c86ee,000000,,,0
+787,9618,106,Praça x 1º de Maio x São José,,3,,b22222,000000,,,0
+787,9619,10,1º de Maio x São José x Praça,,3,,2b2b2b,ffffff,,,0
+787,9620,85,Ipanema x Cruzeiro x Centro,,3,,7f7f7f,ffffff,,,0
+787,9621,139,Praça x M. Pasqual III x Ipanema,,3,,4f94cd,ffffff,,,0
+787,9622,87,Ipanema x Praça,,3,,fffaf0,000000,,,0
+787,9623,122,Praça x Cruzeiro x Ipanema,,3,,3cb371,000000,,,0
+787,9625,65,Estudantes: João Grendene x Industrial x Praça,,3,,8b636c,ffffff,,,0
+787,9626,61,Estudantes: Estadual x 1º de Maio x São José,,3,,ee30a7,000000,,,0
+787,9627,104,Praça x 1º de Maio x Nova Milano,,3,,e0eee0,000000,,,0
+787,9629,21,América x Praça,,3,,bc8f8f,000000,,,0
+787,9630,59,Estudantes: Colégios x Industrial,,3,,fcfcfc,000000,,,0
+787,9631,115,Praça x Caravaggio,,3,,fdf5e6,000000,,,0
+787,9632,29,Caravaggio x Praça,,3,,1a1a1a,ffffff,,,0
+787,9633,76,Farroupilha x Vila Rica,,3,,ff69b4,000000,,,0
+787,9634,160,Vila Rica x Farroupilha,,3,,ee9572,000000,,,0
+787,9635,119,Praça x Cinquent. x Caravaggio,,3,,db7093,000000,,,0
+787,9636,51,Cinquentenário x Centro,,3,,cd2626,000000,,,0
+787,9637,127,Praça x Industrial x Alvorada,,3,,eeee00,000000,,,0
+787,9638,130,Praça x Industrial x Monte Pasqual,,3,,ff00ff,000000,,,0
+787,9639,22,Balneário x Praça x Industrial,,3,,9aff9a,000000,,,0
+787,9640,43,Centro x Santo Antonio x 1º de Maio,,3,,8b1c62,ffffff,,,0
+787,9641,7,1º de Maio x Santo Antonio x Centro,,3,,e9967a,000000,,,0
+787,9642,34,Centro x Belvedere x Cinqüentenário,,3,,8a8a8a,ffffff,,,0
+787,9643,24,Belvedere x Cinqüentenário x Centro,,3,,54ff9f,000000,,,0
+787,9644,47,Centro x São José,,3,,551a8b,ffffff,,,0
+787,9645,156,São Luiz x São José x Centro,,3,,ffa500,000000,,,0
+787,9646,41,Centro x Medianeira x Cruzeiro,,3,,ff34b3,000000,,,0
+787,9647,91,Medianeira x Cruzeiro x Centro,,3,,8b7500,ffffff,,,0
+787,9648,33,Centro x Belvedere x Caravaggio x Cinqüentenário,,3,,76eec6,000000,,,0
+787,9649,23,Belvedere x Caravaggio x Cinquentenário x Centro,,3,,cd853f,000000,,,0
+787,9650,39,Centro x Industrial,,3,,a0522d,ffffff,,,0
+787,9651,20,América x Monte Pasqual  x Centro,,3,,707070,ffffff,,,0
+787,9652,32,Centro x América x Industrial,,3,,b03060,000000,,,0
+787,9656,40,Centro x Ipanema x Cruzeiro,,3,,a3a3a3,000000,,,0
+787,9657,38,Centro x Cruzeiro x Medianeira,,3,,8b668b,ffffff,,,0
+787,9658,55,Cruzeiro x Medianeira x Centro,,3,,454545,ffffff,,,0
+787,9660,35,Centro x Caravaggio x Cinqüentenário,,3,,a1a1a1,ffffff,,,0
+787,9661,28,Caravaggio x Cinquentenário x Centro,,3,,8b6914,ffffff,,,0
+787,9663,37,Centro x Cruzeiro x Ipanema,,3,,9a32cd,ffffff,,,0
+787,9664,54,Cruzeiro x Ipanema x Centro,,3,,48d1cc,000000,,,0
+787,9665,31,Centro x América,,3,,dda0dd,000000,,,0
+787,9666,42,Centro x Nova Milano x Vitória,,3,,4682b4,ffffff,,,0
+787,9667,50,Centro x Vitória,,3,,dbdbdb,000000,,,0
+787,9668,80,Industrial x Pio X x Centro,,3,,fff8dc,000000,,,0
+787,9669,17,América x Ind. x M. Pasq. x Cinqu. x Centro,,3,,030303,ffffff,,,0
+787,9670,36,Centro x Cinque. x Med. M. Pasq. Industrial,,3,,ff0000,000000,,,0
+787,9671,53,Cinqu. x Med. M. Pasq. x  Indust. x Centro,,3,,9370db,000000,,,0
+787,9672,49,Centro x S. Luiz x S. Francisco x S. José,,3,,8b864e,ffffff,,,0
+787,9674,18,América x Ind x M. Pasq.  x Cruzeiro x Centro,,3,,696969,ffffff,,,0
+787,9676,44,Centro x Santo Antonio x 1º de Maio x Monte Verde,,3,,eeaeee,000000,,,0
+787,9677,4,1º de Maio x M. Verde x S. Antonio x Rod x Centro,,3,,cdc673,000000,,,0
+787,9678,9,1º de Maio x S. Antonio x Rodoviária x Centro,,3,,ff6eb4,000000,,,0
+787,9680,14,América x Alvorada x M. Pasqual x Med. x Centro,,3,,8b4500,ffffff,,,0
+787,9681,16,América x Ind. x M. Pasqual  x Medianeira x Centro,,3,,66cd00,000000,,,0
+787,9682,46,Centro x São Francisco x São José x 1º de Maio,,3,,bcd2ee,000000,,,0
+787,9684,151,São José x 1º de Maio x Monte Verde x Centro,,3,,696969,ffffff,,,0
+787,9685,3,1º de Maio x Monte Verde x S. Antonio x Centro,,3,,303030,ffffff,,,0
+787,9686,48,Centro x São Luiz x Francisco x São José,,3,,8b5f65,ffffff,,,0
+787,9687,155,São Luiz x São Francisco x São José x Centro,,3,,828282,ffffff,,,0
+787,9689,45,Centro x Santo Antonio x 1º de Maio x São José,,3,,ff1493,000000,,,0
+787,9690,8,1º de Maio x S. Antonio x Centro,,3,,ffe4e1,000000,,,0
