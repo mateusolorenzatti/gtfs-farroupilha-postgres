@@ -1,4 +1,4 @@
-# gtfsfarroupilha-postgres
+# gtfs-farroupilha-postgres
 
 Plataforma dedicada à importação de dados GTFS da cidade de Farroupilha-RS no banco de dados POSTGRESQL.
 
