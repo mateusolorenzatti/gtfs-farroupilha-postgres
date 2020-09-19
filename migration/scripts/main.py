@@ -44,6 +44,8 @@ def clear():
 
         query(content)
         f.close()
+    
+    
 
 def main():
 

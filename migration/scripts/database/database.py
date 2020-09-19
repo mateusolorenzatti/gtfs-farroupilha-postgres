@@ -29,7 +29,15 @@ def query(comando_bruto):
         print('Retorno da consulta/operação: ')
 
         if ';' in comando_bruto:
-            comandos_lista = [(c).replace('\n', '').replace('-', '') for c in comando_bruto.split(';') if c]
+
+            #  Analisar se temos o comando insert. Se não, remove os comentaríos (Não há comentários nos códigos gerados)
+            if 'INSERT' not in comando_bruto:
+                comandos_lista = [(c).replace('\n', '').replace('-', '') for c in comando_bruto.split(';') if c]
+
+            # Nesse caso, não se remove o '-' pois afetará os números negativos de coordenadas
+            else:
+                comandos_lista = [(c).replace('\n', '') for c in comando_bruto.split(';') if c]
+
             if comandos_lista[-1] == '': comandos_lista.pop()
         else:    
             comandos_lista.append(comando_bruto)
