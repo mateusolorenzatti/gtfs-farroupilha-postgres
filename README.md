@@ -14,31 +14,49 @@ user= < usuario >
 password= < senha > 
 ```
 
+Configurar a VENV
+
+```python
+# Executar na raiz do projeto
+python3 -m venv venv
+
+# Após, ativar a VENV
+source venv/bin/activate
+```
+
+Depois disso, instale os reqiosotps do projeto:
+
+```python
+python3 -m pip install -r requirements.txt
+```
+
+Caso ocorram erros no Linux, você pode instalar as ferramentas conforme descritas [aqui](https://linuxnetmag.com/x86_64-linux-gnu-gcc-failed/)
+
 #### Utilização
 
-Navegue até a pasta migration/scrips pela linha de comando e execute o arquivo migration.py
+Navegue até a pasta src/scrips pela linha de comando e execute o arquivo migration.py
 
 
 ```python
-python3 migration.py criar_tabelas
+python3 main.py criar_tabelas
 
-# Realiza a criação das tabelas e índices no banco, executando os comandos do arquivo migration/sql/create_tables (apaga todas e cria do zero)
+# Realiza a criação das tabelas e índices no banco, executando os comandos do arquivo src/sql/create_tables (apaga todas e cria do zero)
 ```
 
 ```python
-python3 migration.py importar_dados
+python3 main.py importar_dados
 
-# Gera os comandos INSERT tendo como base os dados em migration/data e executa no banco
+# Gera os comandos INSERT tendo como base os dados em src/data e executa no banco
 ```
 
 ```python
-python3 migration.py limpar_base
+python3 main.py limpar_base
 
-# Exxclui todas as tabelas do banco e seus registros
+# Exclui todas as tabelas do banco e seus registros
 ```
 
 ```python
-python3 migration.py migrar
+python3 main.py migrar
 
 # Executa em sequência os comandos 'criar_tabelas' e 'importar_dados'
 ```
