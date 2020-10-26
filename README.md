@@ -36,6 +36,11 @@ Caso ocorram erros no Linux, você pode instalar as ferramentas conforme descrit
 
 Navegue até a pasta src/scrips pela linha de comando e execute o arquivo migration.py
 
+```python
+python3 main.py migrar
+
+# Executa em sequência os comandos 'criar_tabelas' e 'importar_dados'
+```
 
 ```python
 python3 main.py criar_tabelas
@@ -53,10 +58,4 @@ python3 main.py importar_dados
 python3 main.py limpar_base
 
 # Exclui todas as tabelas do banco e seus registros
-```
-
-```python
-python3 main.py migrar
-
-# Executa em sequência os comandos 'criar_tabelas' e 'importar_dados'
 ```
